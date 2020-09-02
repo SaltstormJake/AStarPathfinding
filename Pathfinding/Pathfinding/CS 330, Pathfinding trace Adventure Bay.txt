@@ -1,0 +1,3519 @@
+CS 330, Pathfinding, Begin, Map Name: Adventure Bay
+A* from 1 to 59
+Iteration: 0
+Unvisited nodes: 65
+Open nodes: 1
+Closed nodes: 0
+O.................................................................
+Iteration: 1
+Unvisited nodes: 64
+Open nodes: 2
+Closed nodes: 0
+OC................................................................
+Iteration: 2
+Unvisited nodes: 63
+Open nodes: 2
+Closed nodes: 1
+XOC...............................................................
+Iteration: 3
+Unvisited nodes: 62
+Open nodes: 2
+Closed nodes: 2
+XXOC..............................................................
+Iteration: 4
+Unvisited nodes: 61
+Open nodes: 2
+Closed nodes: 3
+XXXOC.............................................................
+Iteration: 5
+Unvisited nodes: 60
+Open nodes: 2
+Closed nodes: 4
+XXXXOC............................................................
+Iteration: 6
+Unvisited nodes: 59
+Open nodes: 2
+Closed nodes: 5
+XXXXXOC...........................................................
+Iteration: 7
+Unvisited nodes: 58
+Open nodes: 2
+Closed nodes: 6
+XXXXXXOC..........................................................
+Iteration: 8
+Unvisited nodes: 56
+Open nodes: 3
+Closed nodes: 7
+XXXXXXXOCO........................................................
+Iteration: 9
+Unvisited nodes: 56
+Open nodes: 2
+Closed nodes: 8
+XXXXXXXXOC........................................................
+Iteration: 10
+Unvisited nodes: 55
+Open nodes: 2
+Closed nodes: 9
+XXXXXXXXXOC.......................................................
+Iteration: 11
+Unvisited nodes: 53
+Open nodes: 3
+Closed nodes: 10
+XXXXXXXXXXOC......................O...............................
+Iteration: 12
+Unvisited nodes: 51
+Open nodes: 4
+Closed nodes: 11
+XXXXXXXXXXXOC....................OO...............................
+Iteration: 13
+Unvisited nodes: 48
+Open nodes: 6
+Closed nodes: 12
+XXXXXXXXXXXXOC...............O..OOO...............................
+Iteration: 14
+Unvisited nodes: 46
+Open nodes: 7
+Closed nodes: 13
+XXXXXXXXXXXXXOC..............O.OOOO...............................
+Iteration: 15
+Unvisited nodes: 44
+Open nodes: 8
+Closed nodes: 14
+XXXXXXXXXXXXXXOC.............OOOOOO...............................
+Iteration: 16
+Unvisited nodes: 40
+Open nodes: 11
+Closed nodes: 15
+XXXXXXXXXXXXXXXOC...........OOOOOOO..O.....O......................
+Iteration: 17
+Unvisited nodes: 37
+Open nodes: 13
+Closed nodes: 16
+XXXXXXXXXXXXXXXXOC.........OOOOOOOO..O.....OO.....................
+Iteration: 18
+Unvisited nodes: 33
+Open nodes: 16
+Closed nodes: 17
+XXXXXXXXXXXXXXXXXOC......O.OOOOOOOO..O.....OOO............O.......
+Iteration: 19
+Unvisited nodes: 33
+Open nodes: 15
+Closed nodes: 18
+XXXXXXXXXXXXXXXXXXO......O.OOOOOOOC..O.....OOO............O.......
+Iteration: 20
+Unvisited nodes: 33
+Open nodes: 14
+Closed nodes: 19
+XXXXXXXXXXXXXXXXXXO......O.OOOOOOCO..O.....OOO............O.......
+Path from 1 to 59
+Path = 1 2 3 4 5 6 7 8 10 11 12 13 14 15 16 17 18 59 
+Cost: 351
+A* from 45 to 66
+Iteration: 0
+Unvisited nodes: 65
+Open nodes: 1
+Closed nodes: 0
+............................................O.....................
+Iteration: 1
+Unvisited nodes: 61
+Open nodes: 5
+Closed nodes: 0
+................O..........................OOC...O................
+Iteration: 2
+Unvisited nodes: 58
+Open nodes: 7
+Closed nodes: 1
+................O..........................OXO..OOC....O..........
+Iteration: 3
+Unvisited nodes: 56
+Open nodes: 8
+Closed nodes: 2
+................O..........................OXO.OOCO....OO.........
+Iteration: 4
+Unvisited nodes: 54
+Open nodes: 9
+Closed nodes: 3
+................O..........................OXOOOCXO....OOO........
+Iteration: 5
+Unvisited nodes: 52
+Open nodes: 10
+Closed nodes: 4
+................O..........................OXOOCXXO....OOO..O..O..
+Iteration: 6
+Unvisited nodes: 50
+Open nodes: 11
+Closed nodes: 5
+................O..........................OXOXXXXO....OOO..O.OOCO
+Iteration: 7
+Unvisited nodes: 48
+Open nodes: 12
+Closed nodes: 6
+................OO.........................OXOCXXXO....OOOO.O.OX.O
+Iteration: 8
+Unvisited nodes: 46
+Open nodes: 13
+Closed nodes: 7
+................OO.........................OXXXXXXOC..OOOOO.O.OX.O
+Iteration: 9
+Unvisited nodes: 46
+Open nodes: 12
+Closed nodes: 8
+................OO.........................OXXXXXXXO..OOCOO.O.OX.O
+Iteration: 10
+Unvisited nodes: 46
+Open nodes: 11
+Closed nodes: 9
+................OO.........................OXXXXXXXO..OXOCO.O.OX.O
+Iteration: 11
+Unvisited nodes: 46
+Open nodes: 10
+Closed nodes: 10
+................OO.........................OXXXXXXXO..OXXOC.O.OX.O
+Path from 45 to 66
+Path = 45 50 49 48 47 64 66 
+Cost: 125
+A* from 60 to 9
+Iteration: 0
+Unvisited nodes: 65
+Open nodes: 1
+Closed nodes: 0
+...........................................................O......
+Iteration: 1
+Unvisited nodes: 64
+Open nodes: 2
+Closed nodes: 0
+..................................O........................OC.....
+Iteration: 2
+Unvisited nodes: 62
+Open nodes: 3
+Closed nodes: 1
+..................................OCO......................X......
+Iteration: 3
+Unvisited nodes: 61
+Open nodes: 3
+Closed nodes: 2
+.........O........................XOC......................X......
+Iteration: 4
+Unvisited nodes: 59
+Open nodes: 4
+Closed nodes: 3
+.......O.OC.......................XXO......................X......
+Iteration: 5
+Unvisited nodes: 57
+Open nodes: 5
+Closed nodes: 4
+......OOCXO.......................XXO......................X......
+Path from 60 to 9
+Path = 60 35 36 10 8 9 
+Cost: 110
+A* from 1 to 23
+Iteration: 0
+Unvisited nodes: 65
+Open nodes: 1
+Closed nodes: 0
+O.................................................................
+Iteration: 1
+Unvisited nodes: 64
+Open nodes: 2
+Closed nodes: 0
+OC................................................................
+Iteration: 2
+Unvisited nodes: 63
+Open nodes: 2
+Closed nodes: 1
+XOC...............................................................
+Iteration: 3
+Unvisited nodes: 62
+Open nodes: 2
+Closed nodes: 2
+XXOC..............................................................
+Iteration: 4
+Unvisited nodes: 61
+Open nodes: 2
+Closed nodes: 3
+XXXOC.............................................................
+Iteration: 5
+Unvisited nodes: 60
+Open nodes: 2
+Closed nodes: 4
+XXXXOC............................................................
+Iteration: 6
+Unvisited nodes: 59
+Open nodes: 2
+Closed nodes: 5
+XXXXXOC...........................................................
+Iteration: 7
+Unvisited nodes: 58
+Open nodes: 2
+Closed nodes: 6
+XXXXXXOC..........................................................
+Iteration: 8
+Unvisited nodes: 56
+Open nodes: 3
+Closed nodes: 7
+XXXXXXXOCO........................................................
+Iteration: 9
+Unvisited nodes: 56
+Open nodes: 2
+Closed nodes: 8
+XXXXXXXXOC........................................................
+Iteration: 10
+Unvisited nodes: 55
+Open nodes: 2
+Closed nodes: 9
+XXXXXXXXXOC.......................................................
+Iteration: 11
+Unvisited nodes: 53
+Open nodes: 3
+Closed nodes: 10
+XXXXXXXXXXOC......................O...............................
+Iteration: 12
+Unvisited nodes: 51
+Open nodes: 4
+Closed nodes: 11
+XXXXXXXXXXXOC....................OO...............................
+Iteration: 13
+Unvisited nodes: 48
+Open nodes: 6
+Closed nodes: 12
+XXXXXXXXXXXXOC...............O..OOO...............................
+Iteration: 14
+Unvisited nodes: 46
+Open nodes: 7
+Closed nodes: 13
+XXXXXXXXXXXXXOC..............O.OOOO...............................
+Iteration: 15
+Unvisited nodes: 44
+Open nodes: 8
+Closed nodes: 14
+XXXXXXXXXXXXXXOC.............OOOOOO...............................
+Iteration: 16
+Unvisited nodes: 40
+Open nodes: 11
+Closed nodes: 15
+XXXXXXXXXXXXXXXOC...........OOOOOOO..O.....O......................
+Iteration: 17
+Unvisited nodes: 37
+Open nodes: 13
+Closed nodes: 16
+XXXXXXXXXXXXXXXXOC.........OOOOOOOO..O.....OO.....................
+Iteration: 18
+Unvisited nodes: 37
+Open nodes: 12
+Closed nodes: 17
+XXXXXXXXXXXXXXXXXO.........OOOCOOOO..O.....OO.....................
+Iteration: 19
+Unvisited nodes: 37
+Open nodes: 11
+Closed nodes: 18
+XXXXXXXXXXXXXXXXXO.........OOXOOOOC..O.....OO.....................
+Iteration: 20
+Unvisited nodes: 33
+Open nodes: 14
+Closed nodes: 19
+XXXXXXXXXXXXXXXXXOC......O.OOXOOOXO..O.....OOO............O.......
+Iteration: 21
+Unvisited nodes: 33
+Open nodes: 13
+Closed nodes: 20
+XXXXXXXXXXXXXXXXXXO......O.OOXOOOCO..O.....OOO............O.......
+Iteration: 22
+Unvisited nodes: 33
+Open nodes: 12
+Closed nodes: 21
+XXXXXXXXXXXXXXXXXXO......O.OOXOOCXO..O.....OOO............O.......
+Iteration: 23
+Unvisited nodes: 33
+Open nodes: 11
+Closed nodes: 22
+XXXXXXXXXXXXXXXXXXO......O.OOCOXXXO..O.....OOO............O.......
+Iteration: 24
+Unvisited nodes: 33
+Open nodes: 10
+Closed nodes: 23
+XXXXXXXXXXXXXXXXXXO......O.OCXOXXXO..O.....OOO............O.......
+Iteration: 25
+Unvisited nodes: 33
+Open nodes: 9
+Closed nodes: 24
+XXXXXXXXXXXXXXXXXXO......O.XXXOCXXO..O.....OOO............O.......
+Iteration: 26
+Unvisited nodes: 32
+Open nodes: 9
+Closed nodes: 25
+XXXXXXXXXXXXXXXXXXO......OCXXXXXXXO..O.....OOO............O.......
+Iteration: 27
+Unvisited nodes: 29
+Open nodes: 11
+Closed nodes: 26
+XXXXXXXXXXXXXXXXXXOC....OXOXXXXXXXO..O.....OOO............O..O....
+Iteration: 28
+Unvisited nodes: 28
+Open nodes: 11
+Closed nodes: 27
+XXXXXXXXXXXXXXXXXXXO....OXOXXXXXXXO..O.....OCO......O.....O..O....
+Iteration: 29
+Unvisited nodes: 25
+Open nodes: 13
+Closed nodes: 28
+XXXXXXXXXXXXXXXXXXXO....OXOXXXXXXXOCOO.....XOO......O.....OO.O....
+Iteration: 30
+Unvisited nodes: 23
+Open nodes: 14
+Closed nodes: 29
+XXXXXXXXXXXXXXXXXXXOC..OOXOXXXXXXXXOOO.....XOO......O.....OO.O....
+Iteration: 31
+Unvisited nodes: 23
+Open nodes: 13
+Closed nodes: 30
+XXXXXXXXXXXXXXXXXXXXO..OOXOCXXXXXXXOOO.....XOO......O.....OO.O....
+Iteration: 32
+Unvisited nodes: 23
+Open nodes: 12
+Closed nodes: 31
+XXXXXXXXXXXXXXXXXXXXO..OOCXXXXXXXXXOOO.....XOO......O.....OO.O....
+Iteration: 33
+Unvisited nodes: 22
+Open nodes: 12
+Closed nodes: 32
+XXXXXXXXXXXXXXXXXXXXO..OXXXXXXXXXXXOOCO....XOO......O.....OO.O....
+Iteration: 34
+Unvisited nodes: 22
+Open nodes: 11
+Closed nodes: 33
+XXXXXXXXXXXXXXXXXXXXO..OXXXXXXXXXXXOXOO....XOO......O.....OC.O....
+Iteration: 35
+Unvisited nodes: 22
+Open nodes: 10
+Closed nodes: 34
+XXXXXXXXXXXXXXXXXXXXO..OCXXXXXXXXXXOXOO....XOO......O.....XO.O....
+Iteration: 36
+Unvisited nodes: 21
+Open nodes: 10
+Closed nodes: 35
+XXXXXXXXXXXXXXXXXXXXO..XXXXXXXXXXXXOXOCO...XOO......O.....XO.O....
+Iteration: 37
+Unvisited nodes: 21
+Open nodes: 9
+Closed nodes: 36
+XXXXXXXXXXXXXXXXXXXXO..XXXXXXXXXXXXOCXOO...XOO......O.....XO.O....
+Iteration: 38
+Unvisited nodes: 20
+Open nodes: 9
+Closed nodes: 37
+XXXXXXXXXXXXXXXXXXXXO..XXXXXXXXXXXXXXXOO...XOO.....OOC....XO.O....
+Iteration: 39
+Unvisited nodes: 19
+Open nodes: 9
+Closed nodes: 38
+XXXXXXXXXXXXXXXXXXXXO..XXXXXXXXXXXXXXXOO...XOOC....OX.....XO.O....
+Iteration: 40
+Unvisited nodes: 17
+Open nodes: 10
+Closed nodes: 39
+XXXXXXXXXXXXXXXXXXXXO..XXXXXXXXXXXXXXXOO...XOXO...OOCO....XO.O....
+Iteration: 41
+Unvisited nodes: 15
+Open nodes: 11
+Closed nodes: 40
+XXXXXXXXXXXXXXXXXXXXO..XXXXXXXXXXXXXXXOO...XOXO..OOCXOO...XO.O....
+Iteration: 42
+Unvisited nodes: 14
+Open nodes: 11
+Closed nodes: 41
+XXXXXXXXXXXXXXXXXXXXOC.XXXXXXXXXXXXXXXOO...XOXO..OXXXOO...XO.O....
+Iteration: 43
+Unvisited nodes: 13
+Open nodes: 11
+Closed nodes: 42
+XXXXXXXXXXXXXXXXXXXXXOCXXXXXXXXXXXXXXXOO...XOXO..OXXXOO...XO.O....
+Iteration: 44
+Unvisited nodes: 11
+Open nodes: 12
+Closed nodes: 43
+XXXXXXXXXXXXXXXXXXXXXXOXXXXXXXXXXXXXXXOO...XOXO.OOCXXOOO..XO.O....
+Path from 1 to 23
+Path = 1 2 3 4 5 6 7 8 10 11 12 13 14 15 16 17 18 19 20 21 22 23 
+Cost: 416
+A* from 22 to 42
+Iteration: 0
+Unvisited nodes: 65
+Open nodes: 1
+Closed nodes: 0
+.....................O............................................
+Iteration: 1
+Unvisited nodes: 64
+Open nodes: 2
+Closed nodes: 0
+.....................OC...........................................
+Iteration: 2
+Unvisited nodes: 63
+Open nodes: 2
+Closed nodes: 1
+..O..................XOC..........................................
+Iteration: 3
+Unvisited nodes: 61
+Open nodes: 3
+Closed nodes: 2
+.OOC.................XX...........................................
+Iteration: 4
+Unvisited nodes: 60
+Open nodes: 3
+Closed nodes: 3
+.OXOC................XX...........................................
+Iteration: 5
+Unvisited nodes: 59
+Open nodes: 3
+Closed nodes: 4
+.OXXOC...............XX...........................................
+Iteration: 6
+Unvisited nodes: 58
+Open nodes: 3
+Closed nodes: 5
+.OXXXOC..............XX...........................................
+Iteration: 7
+Unvisited nodes: 57
+Open nodes: 3
+Closed nodes: 6
+.OXXXXOC.............XX...........................................
+Iteration: 8
+Unvisited nodes: 55
+Open nodes: 4
+Closed nodes: 7
+.OXXXXXOCO...........XX...........................................
+Iteration: 9
+Unvisited nodes: 54
+Open nodes: 4
+Closed nodes: 8
+.OXXXXXXOOC..........XX...........................................
+Iteration: 10
+Unvisited nodes: 53
+Open nodes: 4
+Closed nodes: 9
+OOCXXXXXOXO..........XX...........................................
+Iteration: 11
+Unvisited nodes: 53
+Open nodes: 3
+Closed nodes: 10
+OXXXXXXXOCO..........XX...........................................
+Iteration: 12
+Unvisited nodes: 51
+Open nodes: 4
+Closed nodes: 11
+OXXXXXXXXXOC.........XX...........O...............................
+Iteration: 13
+Unvisited nodes: 48
+Open nodes: 6
+Closed nodes: 12
+OXXXXXXXXXXO.........XX...........OCO......................O......
+Iteration: 14
+Unvisited nodes: 46
+Open nodes: 7
+Closed nodes: 13
+OXXXXXXXXXXOC........XX..........OXOO......................O......
+Iteration: 15
+Unvisited nodes: 46
+Open nodes: 6
+Closed nodes: 14
+OCXXXXXXXXXXO........XX..........OXOO......................O......
+Iteration: 16
+Unvisited nodes: 46
+Open nodes: 5
+Closed nodes: 15
+XXXXXXXXXXXXO........XX..........OCOO......................O......
+Iteration: 17
+Unvisited nodes: 43
+Open nodes: 7
+Closed nodes: 16
+XXXXXXXXXXXXOC.......XX......O..OXXOO......................O......
+Iteration: 18
+Unvisited nodes: 43
+Open nodes: 6
+Closed nodes: 17
+XXXXXXXXXXXXXO.......XX......O..OXXOO......................OC.....
+Iteration: 19
+Unvisited nodes: 43
+Open nodes: 5
+Closed nodes: 18
+XXXXXXXXXXXXXO.......XX......O..OCXOO......................X......
+Iteration: 20
+Unvisited nodes: 41
+Open nodes: 6
+Closed nodes: 19
+XXXXXXXXXXXXXOC......XX......O.OXXXOO......................X......
+Iteration: 21
+Unvisited nodes: 39
+Open nodes: 7
+Closed nodes: 20
+XXXXXXXXXXXXXXO......XX......O.OXXXOOCO....................X......
+Iteration: 22
+Unvisited nodes: 39
+Open nodes: 6
+Closed nodes: 21
+XXXXXXXXXXXXXXO......XX......O.OCXXOXOO....................X......
+Iteration: 23
+Unvisited nodes: 37
+Open nodes: 7
+Closed nodes: 22
+XXXXXXXXXXXXXXOC.....XX......OOXXXXOXOO....................X......
+Iteration: 24
+Unvisited nodes: 37
+Open nodes: 6
+Closed nodes: 23
+XXXXXXXXXXXXXXXO.....XX......OOXXXXOCOO....................X......
+Iteration: 25
+Unvisited nodes: 37
+Open nodes: 5
+Closed nodes: 24
+XXXXXXXXXXXXXXXO.....XX......OOXXXXXXOOC...................X......
+Iteration: 26
+Unvisited nodes: 36
+Open nodes: 5
+Closed nodes: 25
+XXXXXXXXXXXXXXXO.....XX.....OOCXXXXXXOX....................X......
+Iteration: 27
+Unvisited nodes: 36
+Open nodes: 4
+Closed nodes: 26
+XXXXXXXXXXXXXXXO.....XX.....OXOCXXXXXOX....................X......
+Iteration: 28
+Unvisited nodes: 34
+Open nodes: 5
+Closed nodes: 27
+XXXXXXXXXXXXXXXO.....XX.....OXXXXXXXXOCO...O...............X......
+Iteration: 29
+Unvisited nodes: 32
+Open nodes: 6
+Closed nodes: 28
+XXXXXXXXXXXXXXXO.....XX.....OXXXXXXXXXXOC.OO...............X......
+Iteration: 30
+Unvisited nodes: 31
+Open nodes: 6
+Closed nodes: 29
+XXXXXXXXXXXXXXXO.....XX.....OXXXXXXXXXXXOCOO...............X......
+Path from 22 to 42
+Path = 22 23 3 4 5 6 7 8 10 11 35 37 38 40 41 42 
+Cost: 381
+A* from 9 to 66
+Iteration: 0
+Unvisited nodes: 65
+Open nodes: 1
+Closed nodes: 0
+........O.........................................................
+Iteration: 1
+Unvisited nodes: 64
+Open nodes: 2
+Closed nodes: 0
+.......OOC........................................................
+Iteration: 2
+Unvisited nodes: 62
+Open nodes: 3
+Closed nodes: 1
+......OOCO........................................................
+Iteration: 3
+Unvisited nodes: 61
+Open nodes: 3
+Closed nodes: 2
+.....OOCXO........................................................
+Iteration: 4
+Unvisited nodes: 60
+Open nodes: 3
+Closed nodes: 3
+....OOCXXO........................................................
+Iteration: 5
+Unvisited nodes: 59
+Open nodes: 3
+Closed nodes: 4
+....OXXXXOC.......................................................
+Iteration: 6
+Unvisited nodes: 57
+Open nodes: 4
+Closed nodes: 5
+....OXXXXXOC......................O...............................
+Iteration: 7
+Unvisited nodes: 55
+Open nodes: 5
+Closed nodes: 6
+....OXXXXXXOC....................OO...............................
+Iteration: 8
+Unvisited nodes: 52
+Open nodes: 7
+Closed nodes: 7
+....OXXXXXXXOC...............O..OOO...............................
+Iteration: 9
+Unvisited nodes: 51
+Open nodes: 7
+Closed nodes: 8
+...OOCXXXXXXXO...............O..OOO...............................
+Iteration: 10
+Unvisited nodes: 49
+Open nodes: 8
+Closed nodes: 9
+...OXXXXXXXXXOC..............O.OOOO...............................
+Iteration: 11
+Unvisited nodes: 47
+Open nodes: 9
+Closed nodes: 10
+...OXXXXXXXXXXOC.............OOOOOO...............................
+Iteration: 12
+Unvisited nodes: 43
+Open nodes: 12
+Closed nodes: 11
+...OXXXXXXXXXXXOC...........OOOOOOO..O.....O......................
+Iteration: 13
+Unvisited nodes: 40
+Open nodes: 14
+Closed nodes: 12
+...OXXXXXXXXXXXXOC.........OOOOOOOO..O.....OO.....................
+Iteration: 14
+Unvisited nodes: 39
+Open nodes: 14
+Closed nodes: 13
+...OXXXXXXXXXXXXXO.........OOOOOOOO..O.....OC.......O.............
+Iteration: 15
+Unvisited nodes: 35
+Open nodes: 17
+Closed nodes: 14
+...OXXXXXXXXXXXXXOC......O.OOOOOOOO..O.....XOO......O.....O.......
+Iteration: 16
+Unvisited nodes: 35
+Open nodes: 16
+Closed nodes: 15
+...OXXXXXXXXXXXXXXO......O.OOOOOOOC..O.....XOO......O.....O.......
+Iteration: 17
+Unvisited nodes: 35
+Open nodes: 15
+Closed nodes: 16
+...OXXXXXXXXXXXXXXO......O.OOOOOOCO..O.....XOO......O.....O.......
+Iteration: 18
+Unvisited nodes: 35
+Open nodes: 14
+Closed nodes: 17
+...OXXXXXXXXXXXXXXO......O.OOOOOCXO..O.....XOO......O.....O.......
+Iteration: 19
+Unvisited nodes: 35
+Open nodes: 13
+Closed nodes: 18
+...OXXXXXXXXXXXXXXO......O.OOOOCXXO..O.....XOO......O.....O.......
+Iteration: 20
+Unvisited nodes: 34
+Open nodes: 13
+Closed nodes: 19
+...OXXXXXXXXXXXXXXO......O.OOOXXXXO..O.....XOO.....OOC....O.......
+Iteration: 21
+Unvisited nodes: 33
+Open nodes: 13
+Closed nodes: 20
+...OXXXXXXXXXXXXXXO......O.OOOXXXXO..O.....XOOC....OX.....O.......
+Iteration: 22
+Unvisited nodes: 31
+Open nodes: 14
+Closed nodes: 21
+...OXXXXXXXXXXXXXXO......O.OOOXXXXO..O.....XOXO...OOCO....O.......
+Iteration: 23
+Unvisited nodes: 29
+Open nodes: 15
+Closed nodes: 22
+...OXXXXXXXXXXXXXXO......O.OOOXXXXO..O.....XOXO..OOCXOO...O.......
+Iteration: 24
+Unvisited nodes: 27
+Open nodes: 16
+Closed nodes: 23
+...OXXXXXXXXXXXXXXO......O.OOOXXXXO..O.....XOXO.OOCXXOOO..O.......
+Iteration: 25
+Unvisited nodes: 25
+Open nodes: 17
+Closed nodes: 24
+...OXXXXXXXXXXXXXXO......O.OOOXXXXO..O.....XOXOOOCXXXOOOO.O.......
+Iteration: 26
+Unvisited nodes: 25
+Open nodes: 16
+Closed nodes: 25
+...OXXXXXXXXXXXXXXO......O.OOOCXXXO..O.....XOXOOXXXXXOOOO.O.......
+Iteration: 27
+Unvisited nodes: 23
+Open nodes: 17
+Closed nodes: 26
+...OXXXXXXXXXXXXXXO......O.OOXXXXXO..O.....XOXOCXXXXXOOOO.O.O..O..
+Iteration: 28
+Unvisited nodes: 22
+Open nodes: 17
+Closed nodes: 27
+...OXXXXXXXXXXXXXXO......O.OOXXXXXO..O.....XOXXOCXXXXOOOOOO.O..O..
+Iteration: 29
+Unvisited nodes: 21
+Open nodes: 17
+Closed nodes: 28
+..OOCXXXXXXXXXXXXXO......O.OOXXXXXO..O.....XOXXXXXXXXOOOOOO.O..O..
+Iteration: 30
+Unvisited nodes: 19
+Open nodes: 18
+Closed nodes: 29
+..OXXXXXXXXXXXXXXXO......O.OOXXXXXO..O.....XOXXXXXXXXOOOOOO.O.OOCO
+Iteration: 31
+Unvisited nodes: 19
+Open nodes: 17
+Closed nodes: 30
+..OXXXXXXXXXXXXXXXO......O.OOXXXXXO..O.....XOXXXXXXXXOOOOOOCO.OX.O
+Iteration: 32
+Unvisited nodes: 19
+Open nodes: 16
+Closed nodes: 31
+..OXXXXXXXXXXXXXXXO......O.OOCXXXXO..O.....XOXXXXXXXXOOOOOX.O.OX.O
+Iteration: 33
+Unvisited nodes: 16
+Open nodes: 18
+Closed nodes: 32
+..OXXXXXXXXXXXXXXXO......O.OXXXXXXOCOO.....XOXXXXXXXXOOOOOXOO.OX.O
+Iteration: 34
+Unvisited nodes: 15
+Open nodes: 18
+Closed nodes: 33
+..OXXXXXXXXXXXXXXXO......O.OXXXXXXXOOCO....XOXXXXXXXXOOOOOXOO.OX.O
+Iteration: 35
+Unvisited nodes: 14
+Open nodes: 18
+Closed nodes: 34
+..OXXXXXXXXXXXXXXXO......O.OXXXXXXXOXOCO...XOXXXXXXXXOOOOOXOO.OX.O
+Iteration: 36
+Unvisited nodes: 11
+Open nodes: 20
+Closed nodes: 35
+..OXXXXXXXXXXXXXXXOC....OO.OXXXXXXXOXXOO...XOXXXXXXXXOOOOOXOOOOX.O
+Iteration: 37
+Unvisited nodes: 11
+Open nodes: 19
+Closed nodes: 36
+..OXXXXXXXXXXXXXXXXO....OO.OXXXXXXXOXXOO...XOXXXXXXXXOOOOOXOOOCX.O
+Iteration: 38
+Unvisited nodes: 11
+Open nodes: 18
+Closed nodes: 37
+..OXXXXXXXXXXXXXXXXO....OO.OXXXXXXXOXXOO...XOXXXXXXXXOOOOOXOOXOC.O
+Iteration: 39
+Unvisited nodes: 11
+Open nodes: 17
+Closed nodes: 38
+..OXXXXXXXXXXXXXXXXO....OO.OCXXXXXXOXXOO...XOXXXXXXXXOOOOOXOOXXX.O
+Iteration: 40
+Unvisited nodes: 11
+Open nodes: 16
+Closed nodes: 39
+..OXXXXXXXXXXXXXXXXO....OO.XXXXXXXXOXXOO...XOCXXXXXXXOOOOOXOOXXX.O
+Iteration: 41
+Unvisited nodes: 11
+Open nodes: 15
+Closed nodes: 40
+..OXXXXXXXXXXXXXXXXO....OO.XXXXXXXXOXXOO...XXXXXXXXXXOCOOOXOOXXX.O
+Iteration: 42
+Unvisited nodes: 11
+Open nodes: 14
+Closed nodes: 41
+..OXXXXXXXXXXXXXXXXO....OO.XXXXXXXXOXXOO...XXXXXXXXXXXOCOOXOOXXX.O
+Iteration: 43
+Unvisited nodes: 11
+Open nodes: 13
+Closed nodes: 42
+..OXXXXXXXXXXXXXXXXO....OO.XXXXXXXXOXXOO...XXXXXXXXXXXXOCOXOOXXX.O
+Iteration: 44
+Unvisited nodes: 11
+Open nodes: 12
+Closed nodes: 43
+..OXXXXXXXXXXXXXXXXO....OO.XXXXXXXXOXXOO...XXXXXXXXXXXXXOCXOOXXX.O
+Iteration: 45
+Unvisited nodes: 11
+Open nodes: 11
+Closed nodes: 44
+..OXXXXXXXXXXXXXXXXO....OO.XXXXXXXXOXXOO...XXXXXXXXXXXXXXOCOOXXX.O
+Iteration: 46
+Unvisited nodes: 10
+Open nodes: 11
+Closed nodes: 45
+.OOCXXXXXXXXXXXXXXXO....OO.XXXXXXXXOXXOO...XXXXXXXXXXXXXXXXOOXXX.O
+Iteration: 47
+Unvisited nodes: 9
+Open nodes: 11
+Closed nodes: 46
+.OXXXXXXXXXXXXXXXXXO....OOCXXXXXXXXOXXOO...XXXXXXXXXXXXXXXXOOXXX.O
+Iteration: 48
+Unvisited nodes: 8
+Open nodes: 11
+Closed nodes: 47
+.OXXXXXXXXXXXXXXXXXO....OXOXXXXXXXXOXXOO...XXXXXXXXXXXXXXXXOOCXXOO
+Path from 9 to 66
+Path = 9 8 10 11 12 13 14 15 16 17 18 46 47 64 66 
+Cost: 276
+A* from 33 to 27
+Iteration: 0
+Unvisited nodes: 65
+Open nodes: 1
+Closed nodes: 0
+................................O.................................
+Iteration: 1
+Unvisited nodes: 64
+Open nodes: 2
+Closed nodes: 0
+............O...................OC................................
+Iteration: 2
+Unvisited nodes: 61
+Open nodes: 4
+Closed nodes: 1
+...........OOC...............O..X.................................
+Iteration: 3
+Unvisited nodes: 59
+Open nodes: 5
+Closed nodes: 2
+...........OXOC..............O.OX.................................
+Iteration: 4
+Unvisited nodes: 57
+Open nodes: 6
+Closed nodes: 3
+...........OXXOC.............OOOX.................................
+Iteration: 5
+Unvisited nodes: 53
+Open nodes: 9
+Closed nodes: 4
+...........OXXXOC...........OOOOX....O.....O......................
+Iteration: 6
+Unvisited nodes: 50
+Open nodes: 11
+Closed nodes: 5
+...........OXXXXOC.........OOOOOX....O.....OO.....................
+Iteration: 7
+Unvisited nodes: 50
+Open nodes: 10
+Closed nodes: 6
+...........OXXXXXO.........OOOCOX....O.....OO.....................
+Iteration: 8
+Unvisited nodes: 48
+Open nodes: 11
+Closed nodes: 7
+..........OOCXXXXO.........OOXOOXO...O.....OO.....................
+Iteration: 9
+Unvisited nodes: 44
+Open nodes: 14
+Closed nodes: 8
+..........OXXXXXXOC......O.OOXOOXO...O.....OOO............O.......
+Iteration: 10
+Unvisited nodes: 44
+Open nodes: 13
+Closed nodes: 9
+..........OXXXXXXXO......O.OOXOOCO...O.....OOO............O.......
+Iteration: 11
+Unvisited nodes: 44
+Open nodes: 12
+Closed nodes: 10
+..........OXXXXXXXO......O.OOCOXXO...O.....OOO............O.......
+Iteration: 12
+Unvisited nodes: 44
+Open nodes: 11
+Closed nodes: 11
+..........OXXXXXXXO......O.OCXOXXO...O.....OOO............O.......
+Iteration: 13
+Unvisited nodes: 44
+Open nodes: 10
+Closed nodes: 12
+..........OXXXXXXXO......O.XXXOCXO...O.....OOO............O.......
+Iteration: 14
+Unvisited nodes: 43
+Open nodes: 10
+Closed nodes: 13
+..........OXXXXXXXO......OCXXXXXXO...O.....OOO............O.......
+Iteration: 15
+Unvisited nodes: 42
+Open nodes: 10
+Closed nodes: 14
+..........OCXXXXXXO......XOXXXXXXOO..O.....OOO............O.......
+Iteration: 16
+Unvisited nodes: 41
+Open nodes: 10
+Closed nodes: 15
+..........XXXXXXXXO......XOXXXXXXOO..O.....OCO......O.....O.......
+Iteration: 17
+Unvisited nodes: 41
+Open nodes: 9
+Closed nodes: 16
+..........XXXXXXXXO......XOXXXXXXOC..O.....XOO......O.....O.......
+Path from 33 to 27
+Path = 33 13 14 15 16 17 18 26 27 
+Cost: 129
+A* from 43 to 3
+Iteration: 0
+Unvisited nodes: 65
+Open nodes: 1
+Closed nodes: 0
+..........................................O.......................
+Iteration: 1
+Unvisited nodes: 64
+Open nodes: 2
+Closed nodes: 0
+.......................................O..OC......................
+Iteration: 2
+Unvisited nodes: 62
+Open nodes: 3
+Closed nodes: 1
+.....................................O.OC.X.......................
+Iteration: 3
+Unvisited nodes: 59
+Open nodes: 5
+Closed nodes: 2
+...............O....................OOCXO.XO......................
+Iteration: 4
+Unvisited nodes: 56
+Open nodes: 7
+Closed nodes: 3
+..............OOC...........O.......OX.XO.XO......................
+Iteration: 5
+Unvisited nodes: 54
+Open nodes: 8
+Closed nodes: 4
+..............OXO...........O.......OX.XO.XOC.......O.............
+Iteration: 6
+Unvisited nodes: 52
+Open nodes: 9
+Closed nodes: 5
+..............OXOC.........OO.......OX.XO.XXO.......O.............
+Iteration: 7
+Unvisited nodes: 51
+Open nodes: 9
+Closed nodes: 6
+..............OXXO.........OOC......OX.XO.XXO.......O.............
+Iteration: 8
+Unvisited nodes: 49
+Open nodes: 10
+Closed nodes: 7
+.............OOCXO.........OXOO.....OX.XO.XXO.......O.............
+Iteration: 9
+Unvisited nodes: 48
+Open nodes: 10
+Closed nodes: 8
+.............OXXXO.......O.OCOO.....OX.XO.XXO.......O.............
+Iteration: 10
+Unvisited nodes: 45
+Open nodes: 12
+Closed nodes: 9
+.............OXXXOC......O.XXOO.....OX.XO.XXOO......O.....O.......
+Iteration: 11
+Unvisited nodes: 43
+Open nodes: 13
+Closed nodes: 10
+.............OXXXXO......O.XXOO...O.OCOXO.XXOO......O.....O.......
+Iteration: 12
+Unvisited nodes: 42
+Open nodes: 13
+Closed nodes: 11
+.............OXXXXO......O.XXOO...O.XXOXO.XXOO.....OOC....O.......
+Iteration: 13
+Unvisited nodes: 40
+Open nodes: 14
+Closed nodes: 12
+.............OXXXXO......O.XXOO...O.XXOXO.XXOO....OOCO....O.......
+Iteration: 14
+Unvisited nodes: 38
+Open nodes: 15
+Closed nodes: 13
+............OOCXXXO......O.XXOOO..O.XXOXO.XXOO....OXXO....O.......
+Iteration: 15
+Unvisited nodes: 36
+Open nodes: 16
+Closed nodes: 14
+............OXXXXXO......O.XXOOO..O.XXOXO.XXOO...OOCXOO...O.......
+Iteration: 16
+Unvisited nodes: 35
+Open nodes: 16
+Closed nodes: 15
+............OXXXXXO......OCXXOOO..O.XXOXO.XXOO...OXXXOO...O.......
+Iteration: 17
+Unvisited nodes: 33
+Open nodes: 17
+Closed nodes: 16
+............OXXXXXO......XOXXOOO..O.XXOXO.XXOO..OOCXXOOO..O.......
+Iteration: 18
+Unvisited nodes: 33
+Open nodes: 16
+Closed nodes: 17
+............OXXXXXO......XOXXOOC..O.XXOXO.XXOO..OXXXXOOO..O.......
+Iteration: 19
+Unvisited nodes: 33
+Open nodes: 15
+Closed nodes: 18
+............OXXXXXO......XOXXOXO..O.XXOXO.XXOC..OXXXXOOO..O.......
+Iteration: 20
+Unvisited nodes: 30
+Open nodes: 17
+Closed nodes: 19
+............OXXXXXOC....OXOXXOXO..O.XXOXO.XXXO..OXXXXOOO..O..O....
+Iteration: 21
+Unvisited nodes: 28
+Open nodes: 18
+Closed nodes: 20
+............OXXXXXXO....OXOXXOXO..O.XXOXO.XXXO.OOCXXXOOOO.O..O....
+Iteration: 22
+Unvisited nodes: 28
+Open nodes: 17
+Closed nodes: 21
+............OXXXXXXO....OXOCXOXO..O.XXOXO.XXXO.OXXXXXOOOO.O..O....
+Iteration: 23
+Unvisited nodes: 26
+Open nodes: 18
+Closed nodes: 22
+...........OOCXXXXXO....OXXXXOXOO.O.XXOXO.XXXO.OXXXXXOOOO.O..O....
+Iteration: 24
+Unvisited nodes: 24
+Open nodes: 19
+Closed nodes: 23
+...........OXXXXXXXO....OXXXXOXOO.O.XXOXO.XXXOOOCXXXXOOOOOO..O....
+Iteration: 25
+Unvisited nodes: 22
+Open nodes: 20
+Closed nodes: 24
+...........OXXXXXXXOC..OOXXXXOXOO.O.XXOXO.XXXOOXXXXXXOOOOOO..O....
+Iteration: 26
+Unvisited nodes: 21
+Open nodes: 20
+Closed nodes: 25
+...........OXXXXXXXXO..OOXXXXOXOO.O.XXOXOCXXXOOXXXXXXOOOOOO..O....
+Iteration: 27
+Unvisited nodes: 21
+Open nodes: 19
+Closed nodes: 26
+...........OXXXXXXXXO..OOXXXXOXOC.O.XXOXXOXXXOOXXXXXXOOOOOO..O....
+Iteration: 28
+Unvisited nodes: 19
+Open nodes: 20
+Closed nodes: 27
+...........OXXXXXXXXO..OOXXXXOXXO.O.XXOXXOXXXOOCXXXXXOOOOOO.OO.O..
+Iteration: 29
+Unvisited nodes: 19
+Open nodes: 19
+Closed nodes: 28
+...........OXXXXXXXXO..OOCXXXOXXO.O.XXOXXOXXXOXXXXXXXOOOOOO.OO.O..
+Iteration: 30
+Unvisited nodes: 19
+Open nodes: 18
+Closed nodes: 29
+...........OXXXXXXXXO..OXXXXXOXXO.O.XXOXXOXXXOCXXXXXXOOOOOO.OO.O..
+Iteration: 31
+Unvisited nodes: 19
+Open nodes: 17
+Closed nodes: 30
+...........OXXXXXXXXO..OXXXXXOXXO.O.XXOXXOXXXXXXXXXXXOCOOOO.OO.O..
+Iteration: 32
+Unvisited nodes: 19
+Open nodes: 16
+Closed nodes: 31
+...........OXXXXXXXXO..OXXXXXOCXO.O.XXOXXOXXXXXXXXXXXXOOOOO.OO.O..
+Iteration: 33
+Unvisited nodes: 19
+Open nodes: 15
+Closed nodes: 32
+...........OXXXXXXXXO..OXXXXXXXXO.O.XXOXXOXXXXXXXXXXXXOOOOOCOO.O..
+Iteration: 34
+Unvisited nodes: 19
+Open nodes: 14
+Closed nodes: 33
+...........OXXXXXXXXO..OXXXXXXXXO.O.XXOCXOXXXXXXXXXXXXOOOOX.OO.O..
+Iteration: 35
+Unvisited nodes: 19
+Open nodes: 13
+Closed nodes: 34
+...........OXXXXXXXXO..OXXXXXXXXO.O.XXXXXOXXXXXXXXXXXXOCOOX.OO.O..
+Iteration: 36
+Unvisited nodes: 19
+Open nodes: 12
+Closed nodes: 35
+...........OXXXXXXXXO..OCXXXXXXXO.O.XXXXXOXXXXXXXXXXXXXOOOX.OO.O..
+Iteration: 37
+Unvisited nodes: 17
+Open nodes: 13
+Closed nodes: 36
+..........OOCXXXXXXXO..XXXXXXXXXOOO.XXXXXOXXXXXXXXXXXXXOOOX.OO.O..
+Iteration: 38
+Unvisited nodes: 17
+Open nodes: 12
+Closed nodes: 37
+..........OXXXXXXXXXO..XXXXXXXXXOOO.XXXXXOXXXXXXXXXXXXXOCOX.OO.O..
+Iteration: 39
+Unvisited nodes: 16
+Open nodes: 12
+Closed nodes: 38
+..........OXXXXXXXXXOC.XXXXXXXXXOOO.XXXXXOXXXXXXXXXXXXXXOOX.OO.O..
+Iteration: 40
+Unvisited nodes: 16
+Open nodes: 11
+Closed nodes: 39
+..........OXXXXXXXXXXO.XXXXXXXXXOCO.XXXXXOXXXXXXXXXXXXXXOOX.OO.O..
+Iteration: 41
+Unvisited nodes: 15
+Open nodes: 11
+Closed nodes: 40
+..........OXXXXXXXXXXOCXXXXXXXXXXOO.XXXXXOXXXXXXXXXXXXXXOOX.OO.O..
+Iteration: 42
+Unvisited nodes: 14
+Open nodes: 11
+Closed nodes: 41
+..........OXXXXXXXXXXXOXXXXXXXXXXOO.XXXXXOXXXXXXXXXXXXXXOOX.OC.OO.
+Iteration: 43
+Unvisited nodes: 14
+Open nodes: 10
+Closed nodes: 42
+..........OXXXXXXXXXXXOXXXXXXXXXXOO.XXXXXOXXXXXXXXXXXXXXOCX.XO.OO.
+Iteration: 44
+Unvisited nodes: 13
+Open nodes: 10
+Closed nodes: 43
+..O.......OXXXXXXXXXXXOCXXXXXXXXXOO.XXXXXOXXXXXXXXXXXXXXXOX.XO.OO.
+Iteration: 45
+Unvisited nodes: 11
+Open nodes: 11
+Closed nodes: 44
+..O.......OXXXXXXXXXXXXXXXXXXXXXXOOCXXXXXOXXXXXXXXXXXXXXXOXOXO.OO.
+Path from 43 to 3
+Path = 43 40 38 16 17 18 19 20 21 22 23 3 
+Cost: 318
+CS 330, Pathfinding, Begin, Map Name: Adventure Bay
+A* from 1 to 59
+Iteration: 0
+Unvisited nodes: 65
+Open nodes: 1
+Closed nodes: 0
+O.................................................................
+Iteration: 1
+Unvisited nodes: 64
+Open nodes: 2
+Closed nodes: 0
+OC................................................................
+Iteration: 2
+Unvisited nodes: 63
+Open nodes: 2
+Closed nodes: 1
+XOC...............................................................
+Iteration: 3
+Unvisited nodes: 62
+Open nodes: 2
+Closed nodes: 2
+XXOC..............................................................
+Iteration: 4
+Unvisited nodes: 61
+Open nodes: 2
+Closed nodes: 3
+XXXOC.............................................................
+Iteration: 5
+Unvisited nodes: 60
+Open nodes: 2
+Closed nodes: 4
+XXXXOC............................................................
+Iteration: 6
+Unvisited nodes: 59
+Open nodes: 2
+Closed nodes: 5
+XXXXXOC...........................................................
+Iteration: 7
+Unvisited nodes: 58
+Open nodes: 2
+Closed nodes: 6
+XXXXXXOC..........................................................
+Iteration: 8
+Unvisited nodes: 56
+Open nodes: 3
+Closed nodes: 7
+XXXXXXXOCO........................................................
+Iteration: 9
+Unvisited nodes: 56
+Open nodes: 2
+Closed nodes: 8
+XXXXXXXXOC........................................................
+Iteration: 10
+Unvisited nodes: 55
+Open nodes: 2
+Closed nodes: 9
+XXXXXXXXXOC.......................................................
+Iteration: 11
+Unvisited nodes: 53
+Open nodes: 3
+Closed nodes: 10
+XXXXXXXXXXOC......................O...............................
+Iteration: 12
+Unvisited nodes: 51
+Open nodes: 4
+Closed nodes: 11
+XXXXXXXXXXXOC....................OO...............................
+Iteration: 13
+Unvisited nodes: 48
+Open nodes: 6
+Closed nodes: 12
+XXXXXXXXXXXXOC...............O..OOO...............................
+Iteration: 14
+Unvisited nodes: 46
+Open nodes: 7
+Closed nodes: 13
+XXXXXXXXXXXXXOC..............O.OOOO...............................
+Iteration: 15
+Unvisited nodes: 44
+Open nodes: 8
+Closed nodes: 14
+XXXXXXXXXXXXXXOC.............OOOOOO...............................
+Iteration: 16
+Unvisited nodes: 40
+Open nodes: 11
+Closed nodes: 15
+XXXXXXXXXXXXXXXOC...........OOOOOOO..O.....O......................
+Iteration: 17
+Unvisited nodes: 37
+Open nodes: 13
+Closed nodes: 16
+XXXXXXXXXXXXXXXXOC.........OOOOOOOO..O.....OO.....................
+Iteration: 18
+Unvisited nodes: 33
+Open nodes: 16
+Closed nodes: 17
+XXXXXXXXXXXXXXXXXOC......O.OOOOOOOO..O.....OOO............O.......
+Iteration: 19
+Unvisited nodes: 33
+Open nodes: 15
+Closed nodes: 18
+XXXXXXXXXXXXXXXXXXO......O.OOOOOOOC..O.....OOO............O.......
+Iteration: 20
+Unvisited nodes: 33
+Open nodes: 14
+Closed nodes: 19
+XXXXXXXXXXXXXXXXXXO......O.OOOOOOCO..O.....OOO............O.......
+Path from 1 to 59
+Path = 1 2 3 4 5 6 7 8 10 11 12 13 14 15 16 17 18 59 
+Cost: 351
+A* from 45 to 66
+Iteration: 0
+Unvisited nodes: 65
+Open nodes: 1
+Closed nodes: 0
+............................................O.....................
+Iteration: 1
+Unvisited nodes: 61
+Open nodes: 5
+Closed nodes: 0
+................O..........................OOC...O................
+Iteration: 2
+Unvisited nodes: 58
+Open nodes: 7
+Closed nodes: 1
+................O..........................OXO..OOC....O..........
+Iteration: 3
+Unvisited nodes: 56
+Open nodes: 8
+Closed nodes: 2
+................O..........................OXO.OOCO....OO.........
+Iteration: 4
+Unvisited nodes: 54
+Open nodes: 9
+Closed nodes: 3
+................O..........................OXOOOCXO....OOO........
+Iteration: 5
+Unvisited nodes: 52
+Open nodes: 10
+Closed nodes: 4
+................O..........................OXOOCXXO....OOO..O..O..
+Iteration: 6
+Unvisited nodes: 50
+Open nodes: 11
+Closed nodes: 5
+................O..........................OXOXXXXO....OOO..O.OOCO
+Iteration: 7
+Unvisited nodes: 48
+Open nodes: 12
+Closed nodes: 6
+................OO.........................OXOCXXXO....OOOO.O.OX.O
+Iteration: 8
+Unvisited nodes: 46
+Open nodes: 13
+Closed nodes: 7
+................OO.........................OXXXXXXOC..OOOOO.O.OX.O
+Iteration: 9
+Unvisited nodes: 46
+Open nodes: 12
+Closed nodes: 8
+................OO.........................OXXXXXXXO..OOCOO.O.OX.O
+Iteration: 10
+Unvisited nodes: 46
+Open nodes: 11
+Closed nodes: 9
+................OO.........................OXXXXXXXO..OXOCO.O.OX.O
+Iteration: 11
+Unvisited nodes: 46
+Open nodes: 10
+Closed nodes: 10
+................OO.........................OXXXXXXXO..OXXOC.O.OX.O
+Path from 45 to 66
+Path = 45 50 49 48 47 64 66 
+Cost: 125
+A* from 60 to 9
+Iteration: 0
+Unvisited nodes: 65
+Open nodes: 1
+Closed nodes: 0
+...........................................................O......
+Iteration: 1
+Unvisited nodes: 64
+Open nodes: 2
+Closed nodes: 0
+..................................O........................OC.....
+Iteration: 2
+Unvisited nodes: 62
+Open nodes: 3
+Closed nodes: 1
+..................................OCO......................X......
+Iteration: 3
+Unvisited nodes: 61
+Open nodes: 3
+Closed nodes: 2
+.........O........................XOC......................X......
+Iteration: 4
+Unvisited nodes: 59
+Open nodes: 4
+Closed nodes: 3
+.......O.OC.......................XXO......................X......
+Iteration: 5
+Unvisited nodes: 57
+Open nodes: 5
+Closed nodes: 4
+......OOCXO.......................XXO......................X......
+Path from 60 to 9
+Path = 60 35 36 10 8 9 
+Cost: 110
+A* from 1 to 23
+Iteration: 0
+Unvisited nodes: 65
+Open nodes: 1
+Closed nodes: 0
+O.................................................................
+Iteration: 1
+Unvisited nodes: 64
+Open nodes: 2
+Closed nodes: 0
+OC................................................................
+Iteration: 2
+Unvisited nodes: 63
+Open nodes: 2
+Closed nodes: 1
+XOC...............................................................
+Iteration: 3
+Unvisited nodes: 62
+Open nodes: 2
+Closed nodes: 2
+XXOC..............................................................
+Iteration: 4
+Unvisited nodes: 61
+Open nodes: 2
+Closed nodes: 3
+XXXOC.............................................................
+Iteration: 5
+Unvisited nodes: 60
+Open nodes: 2
+Closed nodes: 4
+XXXXOC............................................................
+Iteration: 6
+Unvisited nodes: 59
+Open nodes: 2
+Closed nodes: 5
+XXXXXOC...........................................................
+Iteration: 7
+Unvisited nodes: 58
+Open nodes: 2
+Closed nodes: 6
+XXXXXXOC..........................................................
+Iteration: 8
+Unvisited nodes: 56
+Open nodes: 3
+Closed nodes: 7
+XXXXXXXOCO........................................................
+Iteration: 9
+Unvisited nodes: 56
+Open nodes: 2
+Closed nodes: 8
+XXXXXXXXOC........................................................
+Iteration: 10
+Unvisited nodes: 55
+Open nodes: 2
+Closed nodes: 9
+XXXXXXXXXOC.......................................................
+Iteration: 11
+Unvisited nodes: 53
+Open nodes: 3
+Closed nodes: 10
+XXXXXXXXXXOC......................O...............................
+Iteration: 12
+Unvisited nodes: 51
+Open nodes: 4
+Closed nodes: 11
+XXXXXXXXXXXOC....................OO...............................
+Iteration: 13
+Unvisited nodes: 48
+Open nodes: 6
+Closed nodes: 12
+XXXXXXXXXXXXOC...............O..OOO...............................
+Iteration: 14
+Unvisited nodes: 46
+Open nodes: 7
+Closed nodes: 13
+XXXXXXXXXXXXXOC..............O.OOOO...............................
+Iteration: 15
+Unvisited nodes: 44
+Open nodes: 8
+Closed nodes: 14
+XXXXXXXXXXXXXXOC.............OOOOOO...............................
+Iteration: 16
+Unvisited nodes: 40
+Open nodes: 11
+Closed nodes: 15
+XXXXXXXXXXXXXXXOC...........OOOOOOO..O.....O......................
+Iteration: 17
+Unvisited nodes: 37
+Open nodes: 13
+Closed nodes: 16
+XXXXXXXXXXXXXXXXOC.........OOOOOOOO..O.....OO.....................
+Iteration: 18
+Unvisited nodes: 37
+Open nodes: 12
+Closed nodes: 17
+XXXXXXXXXXXXXXXXXO.........OOOCOOOO..O.....OO.....................
+Iteration: 19
+Unvisited nodes: 37
+Open nodes: 11
+Closed nodes: 18
+XXXXXXXXXXXXXXXXXO.........OOXOOOOC..O.....OO.....................
+Iteration: 20
+Unvisited nodes: 33
+Open nodes: 14
+Closed nodes: 19
+XXXXXXXXXXXXXXXXXOC......O.OOXOOOXO..O.....OOO............O.......
+Iteration: 21
+Unvisited nodes: 33
+Open nodes: 13
+Closed nodes: 20
+XXXXXXXXXXXXXXXXXXO......O.OOXOOOCO..O.....OOO............O.......
+Iteration: 22
+Unvisited nodes: 33
+Open nodes: 12
+Closed nodes: 21
+XXXXXXXXXXXXXXXXXXO......O.OOXOOCXO..O.....OOO............O.......
+Iteration: 23
+Unvisited nodes: 33
+Open nodes: 11
+Closed nodes: 22
+XXXXXXXXXXXXXXXXXXO......O.OOCOXXXO..O.....OOO............O.......
+Iteration: 24
+Unvisited nodes: 33
+Open nodes: 10
+Closed nodes: 23
+XXXXXXXXXXXXXXXXXXO......O.OCXOXXXO..O.....OOO............O.......
+Iteration: 25
+Unvisited nodes: 33
+Open nodes: 9
+Closed nodes: 24
+XXXXXXXXXXXXXXXXXXO......O.XXXOCXXO..O.....OOO............O.......
+Iteration: 26
+Unvisited nodes: 32
+Open nodes: 9
+Closed nodes: 25
+XXXXXXXXXXXXXXXXXXO......OCXXXXXXXO..O.....OOO............O.......
+Iteration: 27
+Unvisited nodes: 29
+Open nodes: 11
+Closed nodes: 26
+XXXXXXXXXXXXXXXXXXOC....OXOXXXXXXXO..O.....OOO............O..O....
+Iteration: 28
+Unvisited nodes: 28
+Open nodes: 11
+Closed nodes: 27
+XXXXXXXXXXXXXXXXXXXO....OXOXXXXXXXO..O.....OCO......O.....O..O....
+Iteration: 29
+Unvisited nodes: 25
+Open nodes: 13
+Closed nodes: 28
+XXXXXXXXXXXXXXXXXXXO....OXOXXXXXXXOCOO.....XOO......O.....OO.O....
+Iteration: 30
+Unvisited nodes: 23
+Open nodes: 14
+Closed nodes: 29
+XXXXXXXXXXXXXXXXXXXOC..OOXOXXXXXXXXOOO.....XOO......O.....OO.O....
+Iteration: 31
+Unvisited nodes: 23
+Open nodes: 13
+Closed nodes: 30
+XXXXXXXXXXXXXXXXXXXXO..OOXOCXXXXXXXOOO.....XOO......O.....OO.O....
+Iteration: 32
+Unvisited nodes: 23
+Open nodes: 12
+Closed nodes: 31
+XXXXXXXXXXXXXXXXXXXXO..OOCXXXXXXXXXOOO.....XOO......O.....OO.O....
+Iteration: 33
+Unvisited nodes: 22
+Open nodes: 12
+Closed nodes: 32
+XXXXXXXXXXXXXXXXXXXXO..OXXXXXXXXXXXOOCO....XOO......O.....OO.O....
+Iteration: 34
+Unvisited nodes: 22
+Open nodes: 11
+Closed nodes: 33
+XXXXXXXXXXXXXXXXXXXXO..OXXXXXXXXXXXOXOO....XOO......O.....OC.O....
+Iteration: 35
+Unvisited nodes: 22
+Open nodes: 10
+Closed nodes: 34
+XXXXXXXXXXXXXXXXXXXXO..OCXXXXXXXXXXOXOO....XOO......O.....XO.O....
+Iteration: 36
+Unvisited nodes: 21
+Open nodes: 10
+Closed nodes: 35
+XXXXXXXXXXXXXXXXXXXXO..XXXXXXXXXXXXOXOCO...XOO......O.....XO.O....
+Iteration: 37
+Unvisited nodes: 21
+Open nodes: 9
+Closed nodes: 36
+XXXXXXXXXXXXXXXXXXXXO..XXXXXXXXXXXXOCXOO...XOO......O.....XO.O....
+Iteration: 38
+Unvisited nodes: 20
+Open nodes: 9
+Closed nodes: 37
+XXXXXXXXXXXXXXXXXXXXO..XXXXXXXXXXXXXXXOO...XOO.....OOC....XO.O....
+Iteration: 39
+Unvisited nodes: 19
+Open nodes: 9
+Closed nodes: 38
+XXXXXXXXXXXXXXXXXXXXO..XXXXXXXXXXXXXXXOO...XOOC....OX.....XO.O....
+Iteration: 40
+Unvisited nodes: 17
+Open nodes: 10
+Closed nodes: 39
+XXXXXXXXXXXXXXXXXXXXO..XXXXXXXXXXXXXXXOO...XOXO...OOCO....XO.O....
+Iteration: 41
+Unvisited nodes: 15
+Open nodes: 11
+Closed nodes: 40
+XXXXXXXXXXXXXXXXXXXXO..XXXXXXXXXXXXXXXOO...XOXO..OOCXOO...XO.O....
+Iteration: 42
+Unvisited nodes: 14
+Open nodes: 11
+Closed nodes: 41
+XXXXXXXXXXXXXXXXXXXXOC.XXXXXXXXXXXXXXXOO...XOXO..OXXXOO...XO.O....
+Iteration: 43
+Unvisited nodes: 13
+Open nodes: 11
+Closed nodes: 42
+XXXXXXXXXXXXXXXXXXXXXOCXXXXXXXXXXXXXXXOO...XOXO..OXXXOO...XO.O....
+Iteration: 44
+Unvisited nodes: 11
+Open nodes: 12
+Closed nodes: 43
+XXXXXXXXXXXXXXXXXXXXXXOXXXXXXXXXXXXXXXOO...XOXO.OOCXXOOO..XO.O....
+Path from 1 to 23
+Path = 1 2 3 4 5 6 7 8 10 11 12 13 14 15 16 17 18 19 20 21 22 23 
+Cost: 416
+A* from 22 to 42
+Iteration: 0
+Unvisited nodes: 65
+Open nodes: 1
+Closed nodes: 0
+.....................O............................................
+Iteration: 1
+Unvisited nodes: 64
+Open nodes: 2
+Closed nodes: 0
+.....................OC...........................................
+Iteration: 2
+Unvisited nodes: 63
+Open nodes: 2
+Closed nodes: 1
+..O..................XOC..........................................
+Iteration: 3
+Unvisited nodes: 61
+Open nodes: 3
+Closed nodes: 2
+.OOC.................XX...........................................
+Iteration: 4
+Unvisited nodes: 60
+Open nodes: 3
+Closed nodes: 3
+.OXOC................XX...........................................
+Iteration: 5
+Unvisited nodes: 59
+Open nodes: 3
+Closed nodes: 4
+.OXXOC...............XX...........................................
+Iteration: 6
+Unvisited nodes: 58
+Open nodes: 3
+Closed nodes: 5
+.OXXXOC..............XX...........................................
+Iteration: 7
+Unvisited nodes: 57
+Open nodes: 3
+Closed nodes: 6
+.OXXXXOC.............XX...........................................
+Iteration: 8
+Unvisited nodes: 55
+Open nodes: 4
+Closed nodes: 7
+.OXXXXXOCO...........XX...........................................
+Iteration: 9
+Unvisited nodes: 54
+Open nodes: 4
+Closed nodes: 8
+.OXXXXXXOOC..........XX...........................................
+Iteration: 10
+Unvisited nodes: 53
+Open nodes: 4
+Closed nodes: 9
+OOCXXXXXOXO..........XX...........................................
+Iteration: 11
+Unvisited nodes: 53
+Open nodes: 3
+Closed nodes: 10
+OXXXXXXXOCO..........XX...........................................
+Iteration: 12
+Unvisited nodes: 51
+Open nodes: 4
+Closed nodes: 11
+OXXXXXXXXXOC.........XX...........O...............................
+Iteration: 13
+Unvisited nodes: 48
+Open nodes: 6
+Closed nodes: 12
+OXXXXXXXXXXO.........XX...........OCO......................O......
+Iteration: 14
+Unvisited nodes: 46
+Open nodes: 7
+Closed nodes: 13
+OXXXXXXXXXXOC........XX..........OXOO......................O......
+Iteration: 15
+Unvisited nodes: 46
+Open nodes: 6
+Closed nodes: 14
+OCXXXXXXXXXXO........XX..........OXOO......................O......
+Iteration: 16
+Unvisited nodes: 46
+Open nodes: 5
+Closed nodes: 15
+XXXXXXXXXXXXO........XX..........OCOO......................O......
+Iteration: 17
+Unvisited nodes: 43
+Open nodes: 7
+Closed nodes: 16
+XXXXXXXXXXXXOC.......XX......O..OXXOO......................O......
+Iteration: 18
+Unvisited nodes: 43
+Open nodes: 6
+Closed nodes: 17
+XXXXXXXXXXXXXO.......XX......O..OXXOO......................OC.....
+Iteration: 19
+Unvisited nodes: 43
+Open nodes: 5
+Closed nodes: 18
+XXXXXXXXXXXXXO.......XX......O..OCXOO......................X......
+Iteration: 20
+Unvisited nodes: 41
+Open nodes: 6
+Closed nodes: 19
+XXXXXXXXXXXXXOC......XX......O.OXXXOO......................X......
+Iteration: 21
+Unvisited nodes: 39
+Open nodes: 7
+Closed nodes: 20
+XXXXXXXXXXXXXXO......XX......O.OXXXOOCO....................X......
+Iteration: 22
+Unvisited nodes: 39
+Open nodes: 6
+Closed nodes: 21
+XXXXXXXXXXXXXXO......XX......O.OCXXOXOO....................X......
+Iteration: 23
+Unvisited nodes: 37
+Open nodes: 7
+Closed nodes: 22
+XXXXXXXXXXXXXXOC.....XX......OOXXXXOXOO....................X......
+Iteration: 24
+Unvisited nodes: 37
+Open nodes: 6
+Closed nodes: 23
+XXXXXXXXXXXXXXXO.....XX......OOXXXXOCOO....................X......
+Iteration: 25
+Unvisited nodes: 37
+Open nodes: 5
+Closed nodes: 24
+XXXXXXXXXXXXXXXO.....XX......OOXXXXXXOOC...................X......
+Iteration: 26
+Unvisited nodes: 36
+Open nodes: 5
+Closed nodes: 25
+XXXXXXXXXXXXXXXO.....XX.....OOCXXXXXXOX....................X......
+Iteration: 27
+Unvisited nodes: 36
+Open nodes: 4
+Closed nodes: 26
+XXXXXXXXXXXXXXXO.....XX.....OXOCXXXXXOX....................X......
+Iteration: 28
+Unvisited nodes: 34
+Open nodes: 5
+Closed nodes: 27
+XXXXXXXXXXXXXXXO.....XX.....OXXXXXXXXOCO...O...............X......
+Iteration: 29
+Unvisited nodes: 32
+Open nodes: 6
+Closed nodes: 28
+XXXXXXXXXXXXXXXO.....XX.....OXXXXXXXXXXOC.OO...............X......
+Iteration: 30
+Unvisited nodes: 31
+Open nodes: 6
+Closed nodes: 29
+XXXXXXXXXXXXXXXO.....XX.....OXXXXXXXXXXXOCOO...............X......
+Path from 22 to 42
+Path = 22 23 3 4 5 6 7 8 10 11 35 37 38 40 41 42 
+Cost: 381
+A* from 9 to 66
+Iteration: 0
+Unvisited nodes: 65
+Open nodes: 1
+Closed nodes: 0
+........O.........................................................
+Iteration: 1
+Unvisited nodes: 64
+Open nodes: 2
+Closed nodes: 0
+.......OOC........................................................
+Iteration: 2
+Unvisited nodes: 62
+Open nodes: 3
+Closed nodes: 1
+......OOCO........................................................
+Iteration: 3
+Unvisited nodes: 61
+Open nodes: 3
+Closed nodes: 2
+.....OOCXO........................................................
+Iteration: 4
+Unvisited nodes: 60
+Open nodes: 3
+Closed nodes: 3
+....OOCXXO........................................................
+Iteration: 5
+Unvisited nodes: 59
+Open nodes: 3
+Closed nodes: 4
+....OXXXXOC.......................................................
+Iteration: 6
+Unvisited nodes: 57
+Open nodes: 4
+Closed nodes: 5
+....OXXXXXOC......................O...............................
+Iteration: 7
+Unvisited nodes: 55
+Open nodes: 5
+Closed nodes: 6
+....OXXXXXXOC....................OO...............................
+Iteration: 8
+Unvisited nodes: 52
+Open nodes: 7
+Closed nodes: 7
+....OXXXXXXXOC...............O..OOO...............................
+Iteration: 9
+Unvisited nodes: 51
+Open nodes: 7
+Closed nodes: 8
+...OOCXXXXXXXO...............O..OOO...............................
+Iteration: 10
+Unvisited nodes: 49
+Open nodes: 8
+Closed nodes: 9
+...OXXXXXXXXXOC..............O.OOOO...............................
+Iteration: 11
+Unvisited nodes: 47
+Open nodes: 9
+Closed nodes: 10
+...OXXXXXXXXXXOC.............OOOOOO...............................
+Iteration: 12
+Unvisited nodes: 43
+Open nodes: 12
+Closed nodes: 11
+...OXXXXXXXXXXXOC...........OOOOOOO..O.....O......................
+Iteration: 13
+Unvisited nodes: 40
+Open nodes: 14
+Closed nodes: 12
+...OXXXXXXXXXXXXOC.........OOOOOOOO..O.....OO.....................
+Iteration: 14
+Unvisited nodes: 39
+Open nodes: 14
+Closed nodes: 13
+...OXXXXXXXXXXXXXO.........OOOOOOOO..O.....OC.......O.............
+Iteration: 15
+Unvisited nodes: 35
+Open nodes: 17
+Closed nodes: 14
+...OXXXXXXXXXXXXXOC......O.OOOOOOOO..O.....XOO......O.....O.......
+Iteration: 16
+Unvisited nodes: 35
+Open nodes: 16
+Closed nodes: 15
+...OXXXXXXXXXXXXXXO......O.OOOOOOOC..O.....XOO......O.....O.......
+Iteration: 17
+Unvisited nodes: 35
+Open nodes: 15
+Closed nodes: 16
+...OXXXXXXXXXXXXXXO......O.OOOOOOCO..O.....XOO......O.....O.......
+Iteration: 18
+Unvisited nodes: 35
+Open nodes: 14
+Closed nodes: 17
+...OXXXXXXXXXXXXXXO......O.OOOOOCXO..O.....XOO......O.....O.......
+Iteration: 19
+Unvisited nodes: 35
+Open nodes: 13
+Closed nodes: 18
+...OXXXXXXXXXXXXXXO......O.OOOOCXXO..O.....XOO......O.....O.......
+Iteration: 20
+Unvisited nodes: 34
+Open nodes: 13
+Closed nodes: 19
+...OXXXXXXXXXXXXXXO......O.OOOXXXXO..O.....XOO.....OOC....O.......
+Iteration: 21
+Unvisited nodes: 33
+Open nodes: 13
+Closed nodes: 20
+...OXXXXXXXXXXXXXXO......O.OOOXXXXO..O.....XOOC....OX.....O.......
+Iteration: 22
+Unvisited nodes: 31
+Open nodes: 14
+Closed nodes: 21
+...OXXXXXXXXXXXXXXO......O.OOOXXXXO..O.....XOXO...OOCO....O.......
+Iteration: 23
+Unvisited nodes: 29
+Open nodes: 15
+Closed nodes: 22
+...OXXXXXXXXXXXXXXO......O.OOOXXXXO..O.....XOXO..OOCXOO...O.......
+Iteration: 24
+Unvisited nodes: 27
+Open nodes: 16
+Closed nodes: 23
+...OXXXXXXXXXXXXXXO......O.OOOXXXXO..O.....XOXO.OOCXXOOO..O.......
+Iteration: 25
+Unvisited nodes: 25
+Open nodes: 17
+Closed nodes: 24
+...OXXXXXXXXXXXXXXO......O.OOOXXXXO..O.....XOXOOOCXXXOOOO.O.......
+Iteration: 26
+Unvisited nodes: 25
+Open nodes: 16
+Closed nodes: 25
+...OXXXXXXXXXXXXXXO......O.OOOCXXXO..O.....XOXOOXXXXXOOOO.O.......
+Iteration: 27
+Unvisited nodes: 23
+Open nodes: 17
+Closed nodes: 26
+...OXXXXXXXXXXXXXXO......O.OOXXXXXO..O.....XOXOCXXXXXOOOO.O.O..O..
+Iteration: 28
+Unvisited nodes: 22
+Open nodes: 17
+Closed nodes: 27
+...OXXXXXXXXXXXXXXO......O.OOXXXXXO..O.....XOXXOCXXXXOOOOOO.O..O..
+Iteration: 29
+Unvisited nodes: 21
+Open nodes: 17
+Closed nodes: 28
+..OOCXXXXXXXXXXXXXO......O.OOXXXXXO..O.....XOXXXXXXXXOOOOOO.O..O..
+Iteration: 30
+Unvisited nodes: 19
+Open nodes: 18
+Closed nodes: 29
+..OXXXXXXXXXXXXXXXO......O.OOXXXXXO..O.....XOXXXXXXXXOOOOOO.O.OOCO
+Iteration: 31
+Unvisited nodes: 19
+Open nodes: 17
+Closed nodes: 30
+..OXXXXXXXXXXXXXXXO......O.OOXXXXXO..O.....XOXXXXXXXXOOOOOOCO.OX.O
+Iteration: 32
+Unvisited nodes: 19
+Open nodes: 16
+Closed nodes: 31
+..OXXXXXXXXXXXXXXXO......O.OOCXXXXO..O.....XOXXXXXXXXOOOOOX.O.OX.O
+Iteration: 33
+Unvisited nodes: 16
+Open nodes: 18
+Closed nodes: 32
+..OXXXXXXXXXXXXXXXO......O.OXXXXXXOCOO.....XOXXXXXXXXOOOOOXOO.OX.O
+Iteration: 34
+Unvisited nodes: 15
+Open nodes: 18
+Closed nodes: 33
+..OXXXXXXXXXXXXXXXO......O.OXXXXXXXOOCO....XOXXXXXXXXOOOOOXOO.OX.O
+Iteration: 35
+Unvisited nodes: 14
+Open nodes: 18
+Closed nodes: 34
+..OXXXXXXXXXXXXXXXO......O.OXXXXXXXOXOCO...XOXXXXXXXXOOOOOXOO.OX.O
+Iteration: 36
+Unvisited nodes: 11
+Open nodes: 20
+Closed nodes: 35
+..OXXXXXXXXXXXXXXXOC....OO.OXXXXXXXOXXOO...XOXXXXXXXXOOOOOXOOOOX.O
+Iteration: 37
+Unvisited nodes: 11
+Open nodes: 19
+Closed nodes: 36
+..OXXXXXXXXXXXXXXXXO....OO.OXXXXXXXOXXOO...XOXXXXXXXXOOOOOXOOOCX.O
+Iteration: 38
+Unvisited nodes: 11
+Open nodes: 18
+Closed nodes: 37
+..OXXXXXXXXXXXXXXXXO....OO.OXXXXXXXOXXOO...XOXXXXXXXXOOOOOXOOXOC.O
+Iteration: 39
+Unvisited nodes: 11
+Open nodes: 17
+Closed nodes: 38
+..OXXXXXXXXXXXXXXXXO....OO.OCXXXXXXOXXOO...XOXXXXXXXXOOOOOXOOXXX.O
+Iteration: 40
+Unvisited nodes: 11
+Open nodes: 16
+Closed nodes: 39
+..OXXXXXXXXXXXXXXXXO....OO.XXXXXXXXOXXOO...XOCXXXXXXXOOOOOXOOXXX.O
+Iteration: 41
+Unvisited nodes: 11
+Open nodes: 15
+Closed nodes: 40
+..OXXXXXXXXXXXXXXXXO....OO.XXXXXXXXOXXOO...XXXXXXXXXXOCOOOXOOXXX.O
+Iteration: 42
+Unvisited nodes: 11
+Open nodes: 14
+Closed nodes: 41
+..OXXXXXXXXXXXXXXXXO....OO.XXXXXXXXOXXOO...XXXXXXXXXXXOCOOXOOXXX.O
+Iteration: 43
+Unvisited nodes: 11
+Open nodes: 13
+Closed nodes: 42
+..OXXXXXXXXXXXXXXXXO....OO.XXXXXXXXOXXOO...XXXXXXXXXXXXOCOXOOXXX.O
+Iteration: 44
+Unvisited nodes: 11
+Open nodes: 12
+Closed nodes: 43
+..OXXXXXXXXXXXXXXXXO....OO.XXXXXXXXOXXOO...XXXXXXXXXXXXXOCXOOXXX.O
+Iteration: 45
+Unvisited nodes: 11
+Open nodes: 11
+Closed nodes: 44
+..OXXXXXXXXXXXXXXXXO....OO.XXXXXXXXOXXOO...XXXXXXXXXXXXXXOCOOXXX.O
+Iteration: 46
+Unvisited nodes: 10
+Open nodes: 11
+Closed nodes: 45
+.OOCXXXXXXXXXXXXXXXO....OO.XXXXXXXXOXXOO...XXXXXXXXXXXXXXXXOOXXX.O
+Iteration: 47
+Unvisited nodes: 9
+Open nodes: 11
+Closed nodes: 46
+.OXXXXXXXXXXXXXXXXXO....OOCXXXXXXXXOXXOO...XXXXXXXXXXXXXXXXOOXXX.O
+Iteration: 48
+Unvisited nodes: 8
+Open nodes: 11
+Closed nodes: 47
+.OXXXXXXXXXXXXXXXXXO....OXOXXXXXXXXOXXOO...XXXXXXXXXXXXXXXXOOCXXOO
+Path from 9 to 66
+Path = 9 8 10 11 12 13 14 15 16 17 18 46 47 64 66 
+Cost: 276
+A* from 33 to 27
+Iteration: 0
+Unvisited nodes: 65
+Open nodes: 1
+Closed nodes: 0
+................................O.................................
+Iteration: 1
+Unvisited nodes: 64
+Open nodes: 2
+Closed nodes: 0
+............O...................OC................................
+Iteration: 2
+Unvisited nodes: 61
+Open nodes: 4
+Closed nodes: 1
+...........OOC...............O..X.................................
+Iteration: 3
+Unvisited nodes: 59
+Open nodes: 5
+Closed nodes: 2
+...........OXOC..............O.OX.................................
+Iteration: 4
+Unvisited nodes: 57
+Open nodes: 6
+Closed nodes: 3
+...........OXXOC.............OOOX.................................
+Iteration: 5
+Unvisited nodes: 53
+Open nodes: 9
+Closed nodes: 4
+...........OXXXOC...........OOOOX....O.....O......................
+Iteration: 6
+Unvisited nodes: 50
+Open nodes: 11
+Closed nodes: 5
+...........OXXXXOC.........OOOOOX....O.....OO.....................
+Iteration: 7
+Unvisited nodes: 50
+Open nodes: 10
+Closed nodes: 6
+...........OXXXXXO.........OOOCOX....O.....OO.....................
+Iteration: 8
+Unvisited nodes: 48
+Open nodes: 11
+Closed nodes: 7
+..........OOCXXXXO.........OOXOOXO...O.....OO.....................
+Iteration: 9
+Unvisited nodes: 44
+Open nodes: 14
+Closed nodes: 8
+..........OXXXXXXOC......O.OOXOOXO...O.....OOO............O.......
+Iteration: 10
+Unvisited nodes: 44
+Open nodes: 13
+Closed nodes: 9
+..........OXXXXXXXO......O.OOXOOCO...O.....OOO............O.......
+Iteration: 11
+Unvisited nodes: 44
+Open nodes: 12
+Closed nodes: 10
+..........OXXXXXXXO......O.OOCOXXO...O.....OOO............O.......
+Iteration: 12
+Unvisited nodes: 44
+Open nodes: 11
+Closed nodes: 11
+..........OXXXXXXXO......O.OCXOXXO...O.....OOO............O.......
+Iteration: 13
+Unvisited nodes: 44
+Open nodes: 10
+Closed nodes: 12
+..........OXXXXXXXO......O.XXXOCXO...O.....OOO............O.......
+Iteration: 14
+Unvisited nodes: 43
+Open nodes: 10
+Closed nodes: 13
+..........OXXXXXXXO......OCXXXXXXO...O.....OOO............O.......
+Iteration: 15
+Unvisited nodes: 42
+Open nodes: 10
+Closed nodes: 14
+..........OCXXXXXXO......XOXXXXXXOO..O.....OOO............O.......
+Iteration: 16
+Unvisited nodes: 41
+Open nodes: 10
+Closed nodes: 15
+..........XXXXXXXXO......XOXXXXXXOO..O.....OCO......O.....O.......
+Iteration: 17
+Unvisited nodes: 41
+Open nodes: 9
+Closed nodes: 16
+..........XXXXXXXXO......XOXXXXXXOC..O.....XOO......O.....O.......
+Path from 33 to 27
+Path = 33 13 14 15 16 17 18 26 27 
+Cost: 129
+A* from 43 to 3
+Iteration: 0
+Unvisited nodes: 65
+Open nodes: 1
+Closed nodes: 0
+..........................................O.......................
+Iteration: 1
+Unvisited nodes: 64
+Open nodes: 2
+Closed nodes: 0
+.......................................O..OC......................
+Iteration: 2
+Unvisited nodes: 62
+Open nodes: 3
+Closed nodes: 1
+.....................................O.OC.X.......................
+Iteration: 3
+Unvisited nodes: 59
+Open nodes: 5
+Closed nodes: 2
+...............O....................OOCXO.XO......................
+Iteration: 4
+Unvisited nodes: 56
+Open nodes: 7
+Closed nodes: 3
+..............OOC...........O.......OX.XO.XO......................
+Iteration: 5
+Unvisited nodes: 54
+Open nodes: 8
+Closed nodes: 4
+..............OXO...........O.......OX.XO.XOC.......O.............
+Iteration: 6
+Unvisited nodes: 52
+Open nodes: 9
+Closed nodes: 5
+..............OXOC.........OO.......OX.XO.XXO.......O.............
+Iteration: 7
+Unvisited nodes: 51
+Open nodes: 9
+Closed nodes: 6
+..............OXXO.........OOC......OX.XO.XXO.......O.............
+Iteration: 8
+Unvisited nodes: 49
+Open nodes: 10
+Closed nodes: 7
+.............OOCXO.........OXOO.....OX.XO.XXO.......O.............
+Iteration: 9
+Unvisited nodes: 48
+Open nodes: 10
+Closed nodes: 8
+.............OXXXO.......O.OCOO.....OX.XO.XXO.......O.............
+Iteration: 10
+Unvisited nodes: 45
+Open nodes: 12
+Closed nodes: 9
+.............OXXXOC......O.XXOO.....OX.XO.XXOO......O.....O.......
+Iteration: 11
+Unvisited nodes: 43
+Open nodes: 13
+Closed nodes: 10
+.............OXXXXO......O.XXOO...O.OCOXO.XXOO......O.....O.......
+Iteration: 12
+Unvisited nodes: 42
+Open nodes: 13
+Closed nodes: 11
+.............OXXXXO......O.XXOO...O.XXOXO.XXOO.....OOC....O.......
+Iteration: 13
+Unvisited nodes: 40
+Open nodes: 14
+Closed nodes: 12
+.............OXXXXO......O.XXOO...O.XXOXO.XXOO....OOCO....O.......
+Iteration: 14
+Unvisited nodes: 38
+Open nodes: 15
+Closed nodes: 13
+............OOCXXXO......O.XXOOO..O.XXOXO.XXOO....OXXO....O.......
+Iteration: 15
+Unvisited nodes: 36
+Open nodes: 16
+Closed nodes: 14
+............OXXXXXO......O.XXOOO..O.XXOXO.XXOO...OOCXOO...O.......
+Iteration: 16
+Unvisited nodes: 35
+Open nodes: 16
+Closed nodes: 15
+............OXXXXXO......OCXXOOO..O.XXOXO.XXOO...OXXXOO...O.......
+Iteration: 17
+Unvisited nodes: 33
+Open nodes: 17
+Closed nodes: 16
+............OXXXXXO......XOXXOOO..O.XXOXO.XXOO..OOCXXOOO..O.......
+Iteration: 18
+Unvisited nodes: 33
+Open nodes: 16
+Closed nodes: 17
+............OXXXXXO......XOXXOOC..O.XXOXO.XXOO..OXXXXOOO..O.......
+Iteration: 19
+Unvisited nodes: 33
+Open nodes: 15
+Closed nodes: 18
+............OXXXXXO......XOXXOXO..O.XXOXO.XXOC..OXXXXOOO..O.......
+Iteration: 20
+Unvisited nodes: 30
+Open nodes: 17
+Closed nodes: 19
+............OXXXXXOC....OXOXXOXO..O.XXOXO.XXXO..OXXXXOOO..O..O....
+Iteration: 21
+Unvisited nodes: 28
+Open nodes: 18
+Closed nodes: 20
+............OXXXXXXO....OXOXXOXO..O.XXOXO.XXXO.OOCXXXOOOO.O..O....
+Iteration: 22
+Unvisited nodes: 28
+Open nodes: 17
+Closed nodes: 21
+............OXXXXXXO....OXOCXOXO..O.XXOXO.XXXO.OXXXXXOOOO.O..O....
+Iteration: 23
+Unvisited nodes: 26
+Open nodes: 18
+Closed nodes: 22
+...........OOCXXXXXO....OXXXXOXOO.O.XXOXO.XXXO.OXXXXXOOOO.O..O....
+Iteration: 24
+Unvisited nodes: 24
+Open nodes: 19
+Closed nodes: 23
+...........OXXXXXXXO....OXXXXOXOO.O.XXOXO.XXXOOOCXXXXOOOOOO..O....
+Iteration: 25
+Unvisited nodes: 22
+Open nodes: 20
+Closed nodes: 24
+...........OXXXXXXXOC..OOXXXXOXOO.O.XXOXO.XXXOOXXXXXXOOOOOO..O....
+Iteration: 26
+Unvisited nodes: 21
+Open nodes: 20
+Closed nodes: 25
+...........OXXXXXXXXO..OOXXXXOXOO.O.XXOXOCXXXOOXXXXXXOOOOOO..O....
+Iteration: 27
+Unvisited nodes: 21
+Open nodes: 19
+Closed nodes: 26
+...........OXXXXXXXXO..OOXXXXOXOC.O.XXOXXOXXXOOXXXXXXOOOOOO..O....
+Iteration: 28
+Unvisited nodes: 19
+Open nodes: 20
+Closed nodes: 27
+...........OXXXXXXXXO..OOXXXXOXXO.O.XXOXXOXXXOOCXXXXXOOOOOO.OO.O..
+Iteration: 29
+Unvisited nodes: 19
+Open nodes: 19
+Closed nodes: 28
+...........OXXXXXXXXO..OOCXXXOXXO.O.XXOXXOXXXOXXXXXXXOOOOOO.OO.O..
+Iteration: 30
+Unvisited nodes: 19
+Open nodes: 18
+Closed nodes: 29
+...........OXXXXXXXXO..OXXXXXOXXO.O.XXOXXOXXXOCXXXXXXOOOOOO.OO.O..
+Iteration: 31
+Unvisited nodes: 19
+Open nodes: 17
+Closed nodes: 30
+...........OXXXXXXXXO..OXXXXXOXXO.O.XXOXXOXXXXXXXXXXXOCOOOO.OO.O..
+Iteration: 32
+Unvisited nodes: 19
+Open nodes: 16
+Closed nodes: 31
+...........OXXXXXXXXO..OXXXXXOCXO.O.XXOXXOXXXXXXXXXXXXOOOOO.OO.O..
+Iteration: 33
+Unvisited nodes: 19
+Open nodes: 15
+Closed nodes: 32
+...........OXXXXXXXXO..OXXXXXXXXO.O.XXOXXOXXXXXXXXXXXXOOOOOCOO.O..
+Iteration: 34
+Unvisited nodes: 19
+Open nodes: 14
+Closed nodes: 33
+...........OXXXXXXXXO..OXXXXXXXXO.O.XXOCXOXXXXXXXXXXXXOOOOX.OO.O..
+Iteration: 35
+Unvisited nodes: 19
+Open nodes: 13
+Closed nodes: 34
+...........OXXXXXXXXO..OXXXXXXXXO.O.XXXXXOXXXXXXXXXXXXOCOOX.OO.O..
+Iteration: 36
+Unvisited nodes: 19
+Open nodes: 12
+Closed nodes: 35
+...........OXXXXXXXXO..OCXXXXXXXO.O.XXXXXOXXXXXXXXXXXXXOOOX.OO.O..
+Iteration: 37
+Unvisited nodes: 17
+Open nodes: 13
+Closed nodes: 36
+..........OOCXXXXXXXO..XXXXXXXXXOOO.XXXXXOXXXXXXXXXXXXXOOOX.OO.O..
+Iteration: 38
+Unvisited nodes: 17
+Open nodes: 12
+Closed nodes: 37
+..........OXXXXXXXXXO..XXXXXXXXXOOO.XXXXXOXXXXXXXXXXXXXOCOX.OO.O..
+Iteration: 39
+Unvisited nodes: 16
+Open nodes: 12
+Closed nodes: 38
+..........OXXXXXXXXXOC.XXXXXXXXXOOO.XXXXXOXXXXXXXXXXXXXXOOX.OO.O..
+Iteration: 40
+Unvisited nodes: 16
+Open nodes: 11
+Closed nodes: 39
+..........OXXXXXXXXXXO.XXXXXXXXXOCO.XXXXXOXXXXXXXXXXXXXXOOX.OO.O..
+Iteration: 41
+Unvisited nodes: 15
+Open nodes: 11
+Closed nodes: 40
+..........OXXXXXXXXXXOCXXXXXXXXXXOO.XXXXXOXXXXXXXXXXXXXXOOX.OO.O..
+Iteration: 42
+Unvisited nodes: 14
+Open nodes: 11
+Closed nodes: 41
+..........OXXXXXXXXXXXOXXXXXXXXXXOO.XXXXXOXXXXXXXXXXXXXXOOX.OC.OO.
+Iteration: 43
+Unvisited nodes: 14
+Open nodes: 10
+Closed nodes: 42
+..........OXXXXXXXXXXXOXXXXXXXXXXOO.XXXXXOXXXXXXXXXXXXXXOCX.XO.OO.
+Iteration: 44
+Unvisited nodes: 13
+Open nodes: 10
+Closed nodes: 43
+..O.......OXXXXXXXXXXXOCXXXXXXXXXOO.XXXXXOXXXXXXXXXXXXXXXOX.XO.OO.
+Iteration: 45
+Unvisited nodes: 11
+Open nodes: 11
+Closed nodes: 44
+..O.......OXXXXXXXXXXXXXXXXXXXXXXOOCXXXXXOXXXXXXXXXXXXXXXOXOXO.OO.
+Path from 43 to 3
+Path = 43 40 38 16 17 18 19 20 21 22 23 3 
+Cost: 318
+CS 330, Pathfinding, Begin, Map Name: Adventure Bay
+A* from 1 to 59
+Iteration: 0
+Unvisited nodes: 65
+Open nodes: 1
+Closed nodes: 0
+O.................................................................
+Iteration: 1
+Unvisited nodes: 64
+Open nodes: 2
+Closed nodes: 0
+OC................................................................
+Iteration: 2
+Unvisited nodes: 63
+Open nodes: 2
+Closed nodes: 1
+XOC...............................................................
+Iteration: 3
+Unvisited nodes: 62
+Open nodes: 2
+Closed nodes: 2
+XXOC..............................................................
+Iteration: 4
+Unvisited nodes: 61
+Open nodes: 2
+Closed nodes: 3
+XXXOC.............................................................
+Iteration: 5
+Unvisited nodes: 60
+Open nodes: 2
+Closed nodes: 4
+XXXXOC............................................................
+Iteration: 6
+Unvisited nodes: 59
+Open nodes: 2
+Closed nodes: 5
+XXXXXOC...........................................................
+Iteration: 7
+Unvisited nodes: 58
+Open nodes: 2
+Closed nodes: 6
+XXXXXXOC..........................................................
+Iteration: 8
+Unvisited nodes: 56
+Open nodes: 3
+Closed nodes: 7
+XXXXXXXOCO........................................................
+Iteration: 9
+Unvisited nodes: 56
+Open nodes: 2
+Closed nodes: 8
+XXXXXXXXOC........................................................
+Iteration: 10
+Unvisited nodes: 55
+Open nodes: 2
+Closed nodes: 9
+XXXXXXXXXOC.......................................................
+Iteration: 11
+Unvisited nodes: 53
+Open nodes: 3
+Closed nodes: 10
+XXXXXXXXXXOC......................O...............................
+Iteration: 12
+Unvisited nodes: 51
+Open nodes: 4
+Closed nodes: 11
+XXXXXXXXXXXOC....................OO...............................
+Iteration: 13
+Unvisited nodes: 48
+Open nodes: 6
+Closed nodes: 12
+XXXXXXXXXXXXOC...............O..OOO...............................
+Iteration: 14
+Unvisited nodes: 46
+Open nodes: 7
+Closed nodes: 13
+XXXXXXXXXXXXXOC..............O.OOOO...............................
+Iteration: 15
+Unvisited nodes: 44
+Open nodes: 8
+Closed nodes: 14
+XXXXXXXXXXXXXXOC.............OOOOOO...............................
+Iteration: 16
+Unvisited nodes: 40
+Open nodes: 11
+Closed nodes: 15
+XXXXXXXXXXXXXXXOC...........OOOOOOO..O.....O......................
+Iteration: 17
+Unvisited nodes: 37
+Open nodes: 13
+Closed nodes: 16
+XXXXXXXXXXXXXXXXOC.........OOOOOOOO..O.....OO.....................
+Iteration: 18
+Unvisited nodes: 33
+Open nodes: 16
+Closed nodes: 17
+XXXXXXXXXXXXXXXXXOC......O.OOOOOOOO..O.....OOO............O.......
+Iteration: 19
+Unvisited nodes: 33
+Open nodes: 15
+Closed nodes: 18
+XXXXXXXXXXXXXXXXXXO......O.OOOOOOOC..O.....OOO............O.......
+Iteration: 20
+Unvisited nodes: 33
+Open nodes: 14
+Closed nodes: 19
+XXXXXXXXXXXXXXXXXXO......O.OOOOOOCO..O.....OOO............O.......
+Path from 1 to 59
+Path = 1 2 3 4 5 6 7 8 10 11 12 13 14 15 16 17 18 59 
+Cost: 351
+A* from 45 to 66
+Iteration: 0
+Unvisited nodes: 65
+Open nodes: 1
+Closed nodes: 0
+............................................O.....................
+Iteration: 1
+Unvisited nodes: 61
+Open nodes: 5
+Closed nodes: 0
+................O..........................OOC...O................
+Iteration: 2
+Unvisited nodes: 58
+Open nodes: 7
+Closed nodes: 1
+................O..........................OXO..OOC....O..........
+Iteration: 3
+Unvisited nodes: 56
+Open nodes: 8
+Closed nodes: 2
+................O..........................OXO.OOCO....OO.........
+Iteration: 4
+Unvisited nodes: 54
+Open nodes: 9
+Closed nodes: 3
+................O..........................OXOOOCXO....OOO........
+Iteration: 5
+Unvisited nodes: 52
+Open nodes: 10
+Closed nodes: 4
+................O..........................OXOOCXXO....OOO..O..O..
+Iteration: 6
+Unvisited nodes: 50
+Open nodes: 11
+Closed nodes: 5
+................O..........................OXOXXXXO....OOO..O.OOCO
+Iteration: 7
+Unvisited nodes: 48
+Open nodes: 12
+Closed nodes: 6
+................OO.........................OXOCXXXO....OOOO.O.OX.O
+Iteration: 8
+Unvisited nodes: 46
+Open nodes: 13
+Closed nodes: 7
+................OO.........................OXXXXXXOC..OOOOO.O.OX.O
+Iteration: 9
+Unvisited nodes: 46
+Open nodes: 12
+Closed nodes: 8
+................OO.........................OXXXXXXXO..OOCOO.O.OX.O
+Iteration: 10
+Unvisited nodes: 46
+Open nodes: 11
+Closed nodes: 9
+................OO.........................OXXXXXXXO..OXOCO.O.OX.O
+Iteration: 11
+Unvisited nodes: 46
+Open nodes: 10
+Closed nodes: 10
+................OO.........................OXXXXXXXO..OXXOC.O.OX.O
+Path from 45 to 66
+Path = 45 50 49 48 47 64 66 
+Cost: 125
+A* from 60 to 9
+Iteration: 0
+Unvisited nodes: 65
+Open nodes: 1
+Closed nodes: 0
+...........................................................O......
+Iteration: 1
+Unvisited nodes: 64
+Open nodes: 2
+Closed nodes: 0
+..................................O........................OC.....
+Iteration: 2
+Unvisited nodes: 62
+Open nodes: 3
+Closed nodes: 1
+..................................OCO......................X......
+Iteration: 3
+Unvisited nodes: 61
+Open nodes: 3
+Closed nodes: 2
+.........O........................XOC......................X......
+Iteration: 4
+Unvisited nodes: 59
+Open nodes: 4
+Closed nodes: 3
+.......O.OC.......................XXO......................X......
+Iteration: 5
+Unvisited nodes: 57
+Open nodes: 5
+Closed nodes: 4
+......OOCXO.......................XXO......................X......
+Path from 60 to 9
+Path = 60 35 36 10 8 9 
+Cost: 110
+A* from 1 to 23
+Iteration: 0
+Unvisited nodes: 65
+Open nodes: 1
+Closed nodes: 0
+O.................................................................
+Iteration: 1
+Unvisited nodes: 64
+Open nodes: 2
+Closed nodes: 0
+OC................................................................
+Iteration: 2
+Unvisited nodes: 63
+Open nodes: 2
+Closed nodes: 1
+XOC...............................................................
+Iteration: 3
+Unvisited nodes: 62
+Open nodes: 2
+Closed nodes: 2
+XXOC..............................................................
+Iteration: 4
+Unvisited nodes: 61
+Open nodes: 2
+Closed nodes: 3
+XXXOC.............................................................
+Iteration: 5
+Unvisited nodes: 60
+Open nodes: 2
+Closed nodes: 4
+XXXXOC............................................................
+Iteration: 6
+Unvisited nodes: 59
+Open nodes: 2
+Closed nodes: 5
+XXXXXOC...........................................................
+Iteration: 7
+Unvisited nodes: 58
+Open nodes: 2
+Closed nodes: 6
+XXXXXXOC..........................................................
+Iteration: 8
+Unvisited nodes: 56
+Open nodes: 3
+Closed nodes: 7
+XXXXXXXOCO........................................................
+Iteration: 9
+Unvisited nodes: 56
+Open nodes: 2
+Closed nodes: 8
+XXXXXXXXOC........................................................
+Iteration: 10
+Unvisited nodes: 55
+Open nodes: 2
+Closed nodes: 9
+XXXXXXXXXOC.......................................................
+Iteration: 11
+Unvisited nodes: 53
+Open nodes: 3
+Closed nodes: 10
+XXXXXXXXXXOC......................O...............................
+Iteration: 12
+Unvisited nodes: 51
+Open nodes: 4
+Closed nodes: 11
+XXXXXXXXXXXOC....................OO...............................
+Iteration: 13
+Unvisited nodes: 48
+Open nodes: 6
+Closed nodes: 12
+XXXXXXXXXXXXOC...............O..OOO...............................
+Iteration: 14
+Unvisited nodes: 46
+Open nodes: 7
+Closed nodes: 13
+XXXXXXXXXXXXXOC..............O.OOOO...............................
+Iteration: 15
+Unvisited nodes: 44
+Open nodes: 8
+Closed nodes: 14
+XXXXXXXXXXXXXXOC.............OOOOOO...............................
+Iteration: 16
+Unvisited nodes: 40
+Open nodes: 11
+Closed nodes: 15
+XXXXXXXXXXXXXXXOC...........OOOOOOO..O.....O......................
+Iteration: 17
+Unvisited nodes: 37
+Open nodes: 13
+Closed nodes: 16
+XXXXXXXXXXXXXXXXOC.........OOOOOOOO..O.....OO.....................
+Iteration: 18
+Unvisited nodes: 37
+Open nodes: 12
+Closed nodes: 17
+XXXXXXXXXXXXXXXXXO.........OOOCOOOO..O.....OO.....................
+Iteration: 19
+Unvisited nodes: 37
+Open nodes: 11
+Closed nodes: 18
+XXXXXXXXXXXXXXXXXO.........OOXOOOOC..O.....OO.....................
+Iteration: 20
+Unvisited nodes: 33
+Open nodes: 14
+Closed nodes: 19
+XXXXXXXXXXXXXXXXXOC......O.OOXOOOXO..O.....OOO............O.......
+Iteration: 21
+Unvisited nodes: 33
+Open nodes: 13
+Closed nodes: 20
+XXXXXXXXXXXXXXXXXXO......O.OOXOOOCO..O.....OOO............O.......
+Iteration: 22
+Unvisited nodes: 33
+Open nodes: 12
+Closed nodes: 21
+XXXXXXXXXXXXXXXXXXO......O.OOXOOCXO..O.....OOO............O.......
+Iteration: 23
+Unvisited nodes: 33
+Open nodes: 11
+Closed nodes: 22
+XXXXXXXXXXXXXXXXXXO......O.OOCOXXXO..O.....OOO............O.......
+Iteration: 24
+Unvisited nodes: 33
+Open nodes: 10
+Closed nodes: 23
+XXXXXXXXXXXXXXXXXXO......O.OCXOXXXO..O.....OOO............O.......
+Iteration: 25
+Unvisited nodes: 33
+Open nodes: 9
+Closed nodes: 24
+XXXXXXXXXXXXXXXXXXO......O.XXXOCXXO..O.....OOO............O.......
+Iteration: 26
+Unvisited nodes: 32
+Open nodes: 9
+Closed nodes: 25
+XXXXXXXXXXXXXXXXXXO......OCXXXXXXXO..O.....OOO............O.......
+Iteration: 27
+Unvisited nodes: 29
+Open nodes: 11
+Closed nodes: 26
+XXXXXXXXXXXXXXXXXXOC....OXOXXXXXXXO..O.....OOO............O..O....
+Iteration: 28
+Unvisited nodes: 28
+Open nodes: 11
+Closed nodes: 27
+XXXXXXXXXXXXXXXXXXXO....OXOXXXXXXXO..O.....OCO......O.....O..O....
+Iteration: 29
+Unvisited nodes: 25
+Open nodes: 13
+Closed nodes: 28
+XXXXXXXXXXXXXXXXXXXO....OXOXXXXXXXOCOO.....XOO......O.....OO.O....
+Iteration: 30
+Unvisited nodes: 23
+Open nodes: 14
+Closed nodes: 29
+XXXXXXXXXXXXXXXXXXXOC..OOXOXXXXXXXXOOO.....XOO......O.....OO.O....
+Iteration: 31
+Unvisited nodes: 23
+Open nodes: 13
+Closed nodes: 30
+XXXXXXXXXXXXXXXXXXXXO..OOXOCXXXXXXXOOO.....XOO......O.....OO.O....
+Iteration: 32
+Unvisited nodes: 23
+Open nodes: 12
+Closed nodes: 31
+XXXXXXXXXXXXXXXXXXXXO..OOCXXXXXXXXXOOO.....XOO......O.....OO.O....
+Iteration: 33
+Unvisited nodes: 22
+Open nodes: 12
+Closed nodes: 32
+XXXXXXXXXXXXXXXXXXXXO..OXXXXXXXXXXXOOCO....XOO......O.....OO.O....
+Iteration: 34
+Unvisited nodes: 22
+Open nodes: 11
+Closed nodes: 33
+XXXXXXXXXXXXXXXXXXXXO..OXXXXXXXXXXXOXOO....XOO......O.....OC.O....
+Iteration: 35
+Unvisited nodes: 22
+Open nodes: 10
+Closed nodes: 34
+XXXXXXXXXXXXXXXXXXXXO..OCXXXXXXXXXXOXOO....XOO......O.....XO.O....
+Iteration: 36
+Unvisited nodes: 21
+Open nodes: 10
+Closed nodes: 35
+XXXXXXXXXXXXXXXXXXXXO..XXXXXXXXXXXXOXOCO...XOO......O.....XO.O....
+Iteration: 37
+Unvisited nodes: 21
+Open nodes: 9
+Closed nodes: 36
+XXXXXXXXXXXXXXXXXXXXO..XXXXXXXXXXXXOCXOO...XOO......O.....XO.O....
+Iteration: 38
+Unvisited nodes: 20
+Open nodes: 9
+Closed nodes: 37
+XXXXXXXXXXXXXXXXXXXXO..XXXXXXXXXXXXXXXOO...XOO.....OOC....XO.O....
+Iteration: 39
+Unvisited nodes: 19
+Open nodes: 9
+Closed nodes: 38
+XXXXXXXXXXXXXXXXXXXXO..XXXXXXXXXXXXXXXOO...XOOC....OX.....XO.O....
+Iteration: 40
+Unvisited nodes: 17
+Open nodes: 10
+Closed nodes: 39
+XXXXXXXXXXXXXXXXXXXXO..XXXXXXXXXXXXXXXOO...XOXO...OOCO....XO.O....
+Iteration: 41
+Unvisited nodes: 15
+Open nodes: 11
+Closed nodes: 40
+XXXXXXXXXXXXXXXXXXXXO..XXXXXXXXXXXXXXXOO...XOXO..OOCXOO...XO.O....
+Iteration: 42
+Unvisited nodes: 14
+Open nodes: 11
+Closed nodes: 41
+XXXXXXXXXXXXXXXXXXXXOC.XXXXXXXXXXXXXXXOO...XOXO..OXXXOO...XO.O....
+Iteration: 43
+Unvisited nodes: 13
+Open nodes: 11
+Closed nodes: 42
+XXXXXXXXXXXXXXXXXXXXXOCXXXXXXXXXXXXXXXOO...XOXO..OXXXOO...XO.O....
+Iteration: 44
+Unvisited nodes: 11
+Open nodes: 12
+Closed nodes: 43
+XXXXXXXXXXXXXXXXXXXXXXOXXXXXXXXXXXXXXXOO...XOXO.OOCXXOOO..XO.O....
+Path from 1 to 23
+Path = 1 2 3 4 5 6 7 8 10 11 12 13 14 15 16 17 18 19 20 21 22 23 
+Cost: 416
+A* from 22 to 42
+Iteration: 0
+Unvisited nodes: 65
+Open nodes: 1
+Closed nodes: 0
+.....................O............................................
+Iteration: 1
+Unvisited nodes: 64
+Open nodes: 2
+Closed nodes: 0
+.....................OC...........................................
+Iteration: 2
+Unvisited nodes: 63
+Open nodes: 2
+Closed nodes: 1
+..O..................XOC..........................................
+Iteration: 3
+Unvisited nodes: 61
+Open nodes: 3
+Closed nodes: 2
+.OOC.................XX...........................................
+Iteration: 4
+Unvisited nodes: 60
+Open nodes: 3
+Closed nodes: 3
+.OXOC................XX...........................................
+Iteration: 5
+Unvisited nodes: 59
+Open nodes: 3
+Closed nodes: 4
+.OXXOC...............XX...........................................
+Iteration: 6
+Unvisited nodes: 58
+Open nodes: 3
+Closed nodes: 5
+.OXXXOC..............XX...........................................
+Iteration: 7
+Unvisited nodes: 57
+Open nodes: 3
+Closed nodes: 6
+.OXXXXOC.............XX...........................................
+Iteration: 8
+Unvisited nodes: 55
+Open nodes: 4
+Closed nodes: 7
+.OXXXXXOCO...........XX...........................................
+Iteration: 9
+Unvisited nodes: 54
+Open nodes: 4
+Closed nodes: 8
+.OXXXXXXOOC..........XX...........................................
+Iteration: 10
+Unvisited nodes: 53
+Open nodes: 4
+Closed nodes: 9
+OOCXXXXXOXO..........XX...........................................
+Iteration: 11
+Unvisited nodes: 53
+Open nodes: 3
+Closed nodes: 10
+OXXXXXXXOCO..........XX...........................................
+Iteration: 12
+Unvisited nodes: 51
+Open nodes: 4
+Closed nodes: 11
+OXXXXXXXXXOC.........XX...........O...............................
+Iteration: 13
+Unvisited nodes: 48
+Open nodes: 6
+Closed nodes: 12
+OXXXXXXXXXXO.........XX...........OCO......................O......
+Iteration: 14
+Unvisited nodes: 46
+Open nodes: 7
+Closed nodes: 13
+OXXXXXXXXXXOC........XX..........OXOO......................O......
+Iteration: 15
+Unvisited nodes: 46
+Open nodes: 6
+Closed nodes: 14
+OCXXXXXXXXXXO........XX..........OXOO......................O......
+Iteration: 16
+Unvisited nodes: 46
+Open nodes: 5
+Closed nodes: 15
+XXXXXXXXXXXXO........XX..........OCOO......................O......
+Iteration: 17
+Unvisited nodes: 43
+Open nodes: 7
+Closed nodes: 16
+XXXXXXXXXXXXOC.......XX......O..OXXOO......................O......
+Iteration: 18
+Unvisited nodes: 43
+Open nodes: 6
+Closed nodes: 17
+XXXXXXXXXXXXXO.......XX......O..OXXOO......................OC.....
+Iteration: 19
+Unvisited nodes: 43
+Open nodes: 5
+Closed nodes: 18
+XXXXXXXXXXXXXO.......XX......O..OCXOO......................X......
+Iteration: 20
+Unvisited nodes: 41
+Open nodes: 6
+Closed nodes: 19
+XXXXXXXXXXXXXOC......XX......O.OXXXOO......................X......
+Iteration: 21
+Unvisited nodes: 39
+Open nodes: 7
+Closed nodes: 20
+XXXXXXXXXXXXXXO......XX......O.OXXXOOCO....................X......
+Iteration: 22
+Unvisited nodes: 39
+Open nodes: 6
+Closed nodes: 21
+XXXXXXXXXXXXXXO......XX......O.OCXXOXOO....................X......
+Iteration: 23
+Unvisited nodes: 37
+Open nodes: 7
+Closed nodes: 22
+XXXXXXXXXXXXXXOC.....XX......OOXXXXOXOO....................X......
+Iteration: 24
+Unvisited nodes: 37
+Open nodes: 6
+Closed nodes: 23
+XXXXXXXXXXXXXXXO.....XX......OOXXXXOCOO....................X......
+Iteration: 25
+Unvisited nodes: 37
+Open nodes: 5
+Closed nodes: 24
+XXXXXXXXXXXXXXXO.....XX......OOXXXXXXOOC...................X......
+Iteration: 26
+Unvisited nodes: 36
+Open nodes: 5
+Closed nodes: 25
+XXXXXXXXXXXXXXXO.....XX.....OOCXXXXXXOX....................X......
+Iteration: 27
+Unvisited nodes: 36
+Open nodes: 4
+Closed nodes: 26
+XXXXXXXXXXXXXXXO.....XX.....OXOCXXXXXOX....................X......
+Iteration: 28
+Unvisited nodes: 34
+Open nodes: 5
+Closed nodes: 27
+XXXXXXXXXXXXXXXO.....XX.....OXXXXXXXXOCO...O...............X......
+Iteration: 29
+Unvisited nodes: 32
+Open nodes: 6
+Closed nodes: 28
+XXXXXXXXXXXXXXXO.....XX.....OXXXXXXXXXXOC.OO...............X......
+Iteration: 30
+Unvisited nodes: 31
+Open nodes: 6
+Closed nodes: 29
+XXXXXXXXXXXXXXXO.....XX.....OXXXXXXXXXXXOCOO...............X......
+Path from 22 to 42
+Path = 22 23 3 4 5 6 7 8 10 11 35 37 38 40 41 42 
+Cost: 381
+A* from 9 to 66
+Iteration: 0
+Unvisited nodes: 65
+Open nodes: 1
+Closed nodes: 0
+........O.........................................................
+Iteration: 1
+Unvisited nodes: 64
+Open nodes: 2
+Closed nodes: 0
+.......OOC........................................................
+Iteration: 2
+Unvisited nodes: 62
+Open nodes: 3
+Closed nodes: 1
+......OOCO........................................................
+Iteration: 3
+Unvisited nodes: 61
+Open nodes: 3
+Closed nodes: 2
+.....OOCXO........................................................
+Iteration: 4
+Unvisited nodes: 60
+Open nodes: 3
+Closed nodes: 3
+....OOCXXO........................................................
+Iteration: 5
+Unvisited nodes: 59
+Open nodes: 3
+Closed nodes: 4
+....OXXXXOC.......................................................
+Iteration: 6
+Unvisited nodes: 57
+Open nodes: 4
+Closed nodes: 5
+....OXXXXXOC......................O...............................
+Iteration: 7
+Unvisited nodes: 55
+Open nodes: 5
+Closed nodes: 6
+....OXXXXXXOC....................OO...............................
+Iteration: 8
+Unvisited nodes: 52
+Open nodes: 7
+Closed nodes: 7
+....OXXXXXXXOC...............O..OOO...............................
+Iteration: 9
+Unvisited nodes: 51
+Open nodes: 7
+Closed nodes: 8
+...OOCXXXXXXXO...............O..OOO...............................
+Iteration: 10
+Unvisited nodes: 49
+Open nodes: 8
+Closed nodes: 9
+...OXXXXXXXXXOC..............O.OOOO...............................
+Iteration: 11
+Unvisited nodes: 47
+Open nodes: 9
+Closed nodes: 10
+...OXXXXXXXXXXOC.............OOOOOO...............................
+Iteration: 12
+Unvisited nodes: 43
+Open nodes: 12
+Closed nodes: 11
+...OXXXXXXXXXXXOC...........OOOOOOO..O.....O......................
+Iteration: 13
+Unvisited nodes: 40
+Open nodes: 14
+Closed nodes: 12
+...OXXXXXXXXXXXXOC.........OOOOOOOO..O.....OO.....................
+Iteration: 14
+Unvisited nodes: 39
+Open nodes: 14
+Closed nodes: 13
+...OXXXXXXXXXXXXXO.........OOOOOOOO..O.....OC.......O.............
+Iteration: 15
+Unvisited nodes: 35
+Open nodes: 17
+Closed nodes: 14
+...OXXXXXXXXXXXXXOC......O.OOOOOOOO..O.....XOO......O.....O.......
+Iteration: 16
+Unvisited nodes: 35
+Open nodes: 16
+Closed nodes: 15
+...OXXXXXXXXXXXXXXO......O.OOOOOOOC..O.....XOO......O.....O.......
+Iteration: 17
+Unvisited nodes: 35
+Open nodes: 15
+Closed nodes: 16
+...OXXXXXXXXXXXXXXO......O.OOOOOOCO..O.....XOO......O.....O.......
+Iteration: 18
+Unvisited nodes: 35
+Open nodes: 14
+Closed nodes: 17
+...OXXXXXXXXXXXXXXO......O.OOOOOCXO..O.....XOO......O.....O.......
+Iteration: 19
+Unvisited nodes: 35
+Open nodes: 13
+Closed nodes: 18
+...OXXXXXXXXXXXXXXO......O.OOOOCXXO..O.....XOO......O.....O.......
+Iteration: 20
+Unvisited nodes: 34
+Open nodes: 13
+Closed nodes: 19
+...OXXXXXXXXXXXXXXO......O.OOOXXXXO..O.....XOO.....OOC....O.......
+Iteration: 21
+Unvisited nodes: 33
+Open nodes: 13
+Closed nodes: 20
+...OXXXXXXXXXXXXXXO......O.OOOXXXXO..O.....XOOC....OX.....O.......
+Iteration: 22
+Unvisited nodes: 31
+Open nodes: 14
+Closed nodes: 21
+...OXXXXXXXXXXXXXXO......O.OOOXXXXO..O.....XOXO...OOCO....O.......
+Iteration: 23
+Unvisited nodes: 29
+Open nodes: 15
+Closed nodes: 22
+...OXXXXXXXXXXXXXXO......O.OOOXXXXO..O.....XOXO..OOCXOO...O.......
+Iteration: 24
+Unvisited nodes: 27
+Open nodes: 16
+Closed nodes: 23
+...OXXXXXXXXXXXXXXO......O.OOOXXXXO..O.....XOXO.OOCXXOOO..O.......
+Iteration: 25
+Unvisited nodes: 25
+Open nodes: 17
+Closed nodes: 24
+...OXXXXXXXXXXXXXXO......O.OOOXXXXO..O.....XOXOOOCXXXOOOO.O.......
+Iteration: 26
+Unvisited nodes: 25
+Open nodes: 16
+Closed nodes: 25
+...OXXXXXXXXXXXXXXO......O.OOOCXXXO..O.....XOXOOXXXXXOOOO.O.......
+Iteration: 27
+Unvisited nodes: 23
+Open nodes: 17
+Closed nodes: 26
+...OXXXXXXXXXXXXXXO......O.OOXXXXXO..O.....XOXOCXXXXXOOOO.O.O..O..
+Iteration: 28
+Unvisited nodes: 22
+Open nodes: 17
+Closed nodes: 27
+...OXXXXXXXXXXXXXXO......O.OOXXXXXO..O.....XOXXOCXXXXOOOOOO.O..O..
+Iteration: 29
+Unvisited nodes: 21
+Open nodes: 17
+Closed nodes: 28
+..OOCXXXXXXXXXXXXXO......O.OOXXXXXO..O.....XOXXXXXXXXOOOOOO.O..O..
+Iteration: 30
+Unvisited nodes: 19
+Open nodes: 18
+Closed nodes: 29
+..OXXXXXXXXXXXXXXXO......O.OOXXXXXO..O.....XOXXXXXXXXOOOOOO.O.OOCO
+Iteration: 31
+Unvisited nodes: 19
+Open nodes: 17
+Closed nodes: 30
+..OXXXXXXXXXXXXXXXO......O.OOXXXXXO..O.....XOXXXXXXXXOOOOOOCO.OX.O
+Iteration: 32
+Unvisited nodes: 19
+Open nodes: 16
+Closed nodes: 31
+..OXXXXXXXXXXXXXXXO......O.OOCXXXXO..O.....XOXXXXXXXXOOOOOX.O.OX.O
+Iteration: 33
+Unvisited nodes: 16
+Open nodes: 18
+Closed nodes: 32
+..OXXXXXXXXXXXXXXXO......O.OXXXXXXOCOO.....XOXXXXXXXXOOOOOXOO.OX.O
+Iteration: 34
+Unvisited nodes: 15
+Open nodes: 18
+Closed nodes: 33
+..OXXXXXXXXXXXXXXXO......O.OXXXXXXXOOCO....XOXXXXXXXXOOOOOXOO.OX.O
+Iteration: 35
+Unvisited nodes: 14
+Open nodes: 18
+Closed nodes: 34
+..OXXXXXXXXXXXXXXXO......O.OXXXXXXXOXOCO...XOXXXXXXXXOOOOOXOO.OX.O
+Iteration: 36
+Unvisited nodes: 11
+Open nodes: 20
+Closed nodes: 35
+..OXXXXXXXXXXXXXXXOC....OO.OXXXXXXXOXXOO...XOXXXXXXXXOOOOOXOOOOX.O
+Iteration: 37
+Unvisited nodes: 11
+Open nodes: 19
+Closed nodes: 36
+..OXXXXXXXXXXXXXXXXO....OO.OXXXXXXXOXXOO...XOXXXXXXXXOOOOOXOOOCX.O
+Iteration: 38
+Unvisited nodes: 11
+Open nodes: 18
+Closed nodes: 37
+..OXXXXXXXXXXXXXXXXO....OO.OXXXXXXXOXXOO...XOXXXXXXXXOOOOOXOOXOC.O
+Iteration: 39
+Unvisited nodes: 11
+Open nodes: 17
+Closed nodes: 38
+..OXXXXXXXXXXXXXXXXO....OO.OCXXXXXXOXXOO...XOXXXXXXXXOOOOOXOOXXX.O
+Iteration: 40
+Unvisited nodes: 11
+Open nodes: 16
+Closed nodes: 39
+..OXXXXXXXXXXXXXXXXO....OO.XXXXXXXXOXXOO...XOCXXXXXXXOOOOOXOOXXX.O
+Iteration: 41
+Unvisited nodes: 11
+Open nodes: 15
+Closed nodes: 40
+..OXXXXXXXXXXXXXXXXO....OO.XXXXXXXXOXXOO...XXXXXXXXXXOCOOOXOOXXX.O
+Iteration: 42
+Unvisited nodes: 11
+Open nodes: 14
+Closed nodes: 41
+..OXXXXXXXXXXXXXXXXO....OO.XXXXXXXXOXXOO...XXXXXXXXXXXOCOOXOOXXX.O
+Iteration: 43
+Unvisited nodes: 11
+Open nodes: 13
+Closed nodes: 42
+..OXXXXXXXXXXXXXXXXO....OO.XXXXXXXXOXXOO...XXXXXXXXXXXXOCOXOOXXX.O
+Iteration: 44
+Unvisited nodes: 11
+Open nodes: 12
+Closed nodes: 43
+..OXXXXXXXXXXXXXXXXO....OO.XXXXXXXXOXXOO...XXXXXXXXXXXXXOCXOOXXX.O
+Iteration: 45
+Unvisited nodes: 11
+Open nodes: 11
+Closed nodes: 44
+..OXXXXXXXXXXXXXXXXO....OO.XXXXXXXXOXXOO...XXXXXXXXXXXXXXOCOOXXX.O
+Iteration: 46
+Unvisited nodes: 10
+Open nodes: 11
+Closed nodes: 45
+.OOCXXXXXXXXXXXXXXXO....OO.XXXXXXXXOXXOO...XXXXXXXXXXXXXXXXOOXXX.O
+Iteration: 47
+Unvisited nodes: 9
+Open nodes: 11
+Closed nodes: 46
+.OXXXXXXXXXXXXXXXXXO....OOCXXXXXXXXOXXOO...XXXXXXXXXXXXXXXXOOXXX.O
+Iteration: 48
+Unvisited nodes: 8
+Open nodes: 11
+Closed nodes: 47
+.OXXXXXXXXXXXXXXXXXO....OXOXXXXXXXXOXXOO...XXXXXXXXXXXXXXXXOOCXXOO
+Path from 9 to 66
+Path = 9 8 10 11 12 13 14 15 16 17 18 46 47 64 66 
+Cost: 276
+A* from 33 to 27
+Iteration: 0
+Unvisited nodes: 65
+Open nodes: 1
+Closed nodes: 0
+................................O.................................
+Iteration: 1
+Unvisited nodes: 64
+Open nodes: 2
+Closed nodes: 0
+............O...................OC................................
+Iteration: 2
+Unvisited nodes: 61
+Open nodes: 4
+Closed nodes: 1
+...........OOC...............O..X.................................
+Iteration: 3
+Unvisited nodes: 59
+Open nodes: 5
+Closed nodes: 2
+...........OXOC..............O.OX.................................
+Iteration: 4
+Unvisited nodes: 57
+Open nodes: 6
+Closed nodes: 3
+...........OXXOC.............OOOX.................................
+Iteration: 5
+Unvisited nodes: 53
+Open nodes: 9
+Closed nodes: 4
+...........OXXXOC...........OOOOX....O.....O......................
+Iteration: 6
+Unvisited nodes: 50
+Open nodes: 11
+Closed nodes: 5
+...........OXXXXOC.........OOOOOX....O.....OO.....................
+Iteration: 7
+Unvisited nodes: 50
+Open nodes: 10
+Closed nodes: 6
+...........OXXXXXO.........OOOCOX....O.....OO.....................
+Iteration: 8
+Unvisited nodes: 48
+Open nodes: 11
+Closed nodes: 7
+..........OOCXXXXO.........OOXOOXO...O.....OO.....................
+Iteration: 9
+Unvisited nodes: 44
+Open nodes: 14
+Closed nodes: 8
+..........OXXXXXXOC......O.OOXOOXO...O.....OOO............O.......
+Iteration: 10
+Unvisited nodes: 44
+Open nodes: 13
+Closed nodes: 9
+..........OXXXXXXXO......O.OOXOOCO...O.....OOO............O.......
+Iteration: 11
+Unvisited nodes: 44
+Open nodes: 12
+Closed nodes: 10
+..........OXXXXXXXO......O.OOCOXXO...O.....OOO............O.......
+Iteration: 12
+Unvisited nodes: 44
+Open nodes: 11
+Closed nodes: 11
+..........OXXXXXXXO......O.OCXOXXO...O.....OOO............O.......
+Iteration: 13
+Unvisited nodes: 44
+Open nodes: 10
+Closed nodes: 12
+..........OXXXXXXXO......O.XXXOCXO...O.....OOO............O.......
+Iteration: 14
+Unvisited nodes: 43
+Open nodes: 10
+Closed nodes: 13
+..........OXXXXXXXO......OCXXXXXXO...O.....OOO............O.......
+Iteration: 15
+Unvisited nodes: 42
+Open nodes: 10
+Closed nodes: 14
+..........OCXXXXXXO......XOXXXXXXOO..O.....OOO............O.......
+Iteration: 16
+Unvisited nodes: 41
+Open nodes: 10
+Closed nodes: 15
+..........XXXXXXXXO......XOXXXXXXOO..O.....OCO......O.....O.......
+Iteration: 17
+Unvisited nodes: 41
+Open nodes: 9
+Closed nodes: 16
+..........XXXXXXXXO......XOXXXXXXOC..O.....XOO......O.....O.......
+Path from 33 to 27
+Path = 33 13 14 15 16 17 18 26 27 
+Cost: 129
+A* from 43 to 3
+Iteration: 0
+Unvisited nodes: 65
+Open nodes: 1
+Closed nodes: 0
+..........................................O.......................
+Iteration: 1
+Unvisited nodes: 64
+Open nodes: 2
+Closed nodes: 0
+.......................................O..OC......................
+Iteration: 2
+Unvisited nodes: 62
+Open nodes: 3
+Closed nodes: 1
+.....................................O.OC.X.......................
+Iteration: 3
+Unvisited nodes: 59
+Open nodes: 5
+Closed nodes: 2
+...............O....................OOCXO.XO......................
+Iteration: 4
+Unvisited nodes: 56
+Open nodes: 7
+Closed nodes: 3
+..............OOC...........O.......OX.XO.XO......................
+Iteration: 5
+Unvisited nodes: 54
+Open nodes: 8
+Closed nodes: 4
+..............OXO...........O.......OX.XO.XOC.......O.............
+Iteration: 6
+Unvisited nodes: 52
+Open nodes: 9
+Closed nodes: 5
+..............OXOC.........OO.......OX.XO.XXO.......O.............
+Iteration: 7
+Unvisited nodes: 51
+Open nodes: 9
+Closed nodes: 6
+..............OXXO.........OOC......OX.XO.XXO.......O.............
+Iteration: 8
+Unvisited nodes: 49
+Open nodes: 10
+Closed nodes: 7
+.............OOCXO.........OXOO.....OX.XO.XXO.......O.............
+Iteration: 9
+Unvisited nodes: 48
+Open nodes: 10
+Closed nodes: 8
+.............OXXXO.......O.OCOO.....OX.XO.XXO.......O.............
+Iteration: 10
+Unvisited nodes: 45
+Open nodes: 12
+Closed nodes: 9
+.............OXXXOC......O.XXOO.....OX.XO.XXOO......O.....O.......
+Iteration: 11
+Unvisited nodes: 43
+Open nodes: 13
+Closed nodes: 10
+.............OXXXXO......O.XXOO...O.OCOXO.XXOO......O.....O.......
+Iteration: 12
+Unvisited nodes: 42
+Open nodes: 13
+Closed nodes: 11
+.............OXXXXO......O.XXOO...O.XXOXO.XXOO.....OOC....O.......
+Iteration: 13
+Unvisited nodes: 40
+Open nodes: 14
+Closed nodes: 12
+.............OXXXXO......O.XXOO...O.XXOXO.XXOO....OOCO....O.......
+Iteration: 14
+Unvisited nodes: 38
+Open nodes: 15
+Closed nodes: 13
+............OOCXXXO......O.XXOOO..O.XXOXO.XXOO....OXXO....O.......
+Iteration: 15
+Unvisited nodes: 36
+Open nodes: 16
+Closed nodes: 14
+............OXXXXXO......O.XXOOO..O.XXOXO.XXOO...OOCXOO...O.......
+Iteration: 16
+Unvisited nodes: 35
+Open nodes: 16
+Closed nodes: 15
+............OXXXXXO......OCXXOOO..O.XXOXO.XXOO...OXXXOO...O.......
+Iteration: 17
+Unvisited nodes: 33
+Open nodes: 17
+Closed nodes: 16
+............OXXXXXO......XOXXOOO..O.XXOXO.XXOO..OOCXXOOO..O.......
+Iteration: 18
+Unvisited nodes: 33
+Open nodes: 16
+Closed nodes: 17
+............OXXXXXO......XOXXOOC..O.XXOXO.XXOO..OXXXXOOO..O.......
+Iteration: 19
+Unvisited nodes: 33
+Open nodes: 15
+Closed nodes: 18
+............OXXXXXO......XOXXOXO..O.XXOXO.XXOC..OXXXXOOO..O.......
+Iteration: 20
+Unvisited nodes: 30
+Open nodes: 17
+Closed nodes: 19
+............OXXXXXOC....OXOXXOXO..O.XXOXO.XXXO..OXXXXOOO..O..O....
+Iteration: 21
+Unvisited nodes: 28
+Open nodes: 18
+Closed nodes: 20
+............OXXXXXXO....OXOXXOXO..O.XXOXO.XXXO.OOCXXXOOOO.O..O....
+Iteration: 22
+Unvisited nodes: 28
+Open nodes: 17
+Closed nodes: 21
+............OXXXXXXO....OXOCXOXO..O.XXOXO.XXXO.OXXXXXOOOO.O..O....
+Iteration: 23
+Unvisited nodes: 26
+Open nodes: 18
+Closed nodes: 22
+...........OOCXXXXXO....OXXXXOXOO.O.XXOXO.XXXO.OXXXXXOOOO.O..O....
+Iteration: 24
+Unvisited nodes: 24
+Open nodes: 19
+Closed nodes: 23
+...........OXXXXXXXO....OXXXXOXOO.O.XXOXO.XXXOOOCXXXXOOOOOO..O....
+Iteration: 25
+Unvisited nodes: 22
+Open nodes: 20
+Closed nodes: 24
+...........OXXXXXXXOC..OOXXXXOXOO.O.XXOXO.XXXOOXXXXXXOOOOOO..O....
+Iteration: 26
+Unvisited nodes: 21
+Open nodes: 20
+Closed nodes: 25
+...........OXXXXXXXXO..OOXXXXOXOO.O.XXOXOCXXXOOXXXXXXOOOOOO..O....
+Iteration: 27
+Unvisited nodes: 21
+Open nodes: 19
+Closed nodes: 26
+...........OXXXXXXXXO..OOXXXXOXOC.O.XXOXXOXXXOOXXXXXXOOOOOO..O....
+Iteration: 28
+Unvisited nodes: 19
+Open nodes: 20
+Closed nodes: 27
+...........OXXXXXXXXO..OOXXXXOXXO.O.XXOXXOXXXOOCXXXXXOOOOOO.OO.O..
+Iteration: 29
+Unvisited nodes: 19
+Open nodes: 19
+Closed nodes: 28
+...........OXXXXXXXXO..OOCXXXOXXO.O.XXOXXOXXXOXXXXXXXOOOOOO.OO.O..
+Iteration: 30
+Unvisited nodes: 19
+Open nodes: 18
+Closed nodes: 29
+...........OXXXXXXXXO..OXXXXXOXXO.O.XXOXXOXXXOCXXXXXXOOOOOO.OO.O..
+Iteration: 31
+Unvisited nodes: 19
+Open nodes: 17
+Closed nodes: 30
+...........OXXXXXXXXO..OXXXXXOXXO.O.XXOXXOXXXXXXXXXXXOCOOOO.OO.O..
+Iteration: 32
+Unvisited nodes: 19
+Open nodes: 16
+Closed nodes: 31
+...........OXXXXXXXXO..OXXXXXOCXO.O.XXOXXOXXXXXXXXXXXXOOOOO.OO.O..
+Iteration: 33
+Unvisited nodes: 19
+Open nodes: 15
+Closed nodes: 32
+...........OXXXXXXXXO..OXXXXXXXXO.O.XXOXXOXXXXXXXXXXXXOOOOOCOO.O..
+Iteration: 34
+Unvisited nodes: 19
+Open nodes: 14
+Closed nodes: 33
+...........OXXXXXXXXO..OXXXXXXXXO.O.XXOCXOXXXXXXXXXXXXOOOOX.OO.O..
+Iteration: 35
+Unvisited nodes: 19
+Open nodes: 13
+Closed nodes: 34
+...........OXXXXXXXXO..OXXXXXXXXO.O.XXXXXOXXXXXXXXXXXXOCOOX.OO.O..
+Iteration: 36
+Unvisited nodes: 19
+Open nodes: 12
+Closed nodes: 35
+...........OXXXXXXXXO..OCXXXXXXXO.O.XXXXXOXXXXXXXXXXXXXOOOX.OO.O..
+Iteration: 37
+Unvisited nodes: 17
+Open nodes: 13
+Closed nodes: 36
+..........OOCXXXXXXXO..XXXXXXXXXOOO.XXXXXOXXXXXXXXXXXXXOOOX.OO.O..
+Iteration: 38
+Unvisited nodes: 17
+Open nodes: 12
+Closed nodes: 37
+..........OXXXXXXXXXO..XXXXXXXXXOOO.XXXXXOXXXXXXXXXXXXXOCOX.OO.O..
+Iteration: 39
+Unvisited nodes: 16
+Open nodes: 12
+Closed nodes: 38
+..........OXXXXXXXXXOC.XXXXXXXXXOOO.XXXXXOXXXXXXXXXXXXXXOOX.OO.O..
+Iteration: 40
+Unvisited nodes: 16
+Open nodes: 11
+Closed nodes: 39
+..........OXXXXXXXXXXO.XXXXXXXXXOCO.XXXXXOXXXXXXXXXXXXXXOOX.OO.O..
+Iteration: 41
+Unvisited nodes: 15
+Open nodes: 11
+Closed nodes: 40
+..........OXXXXXXXXXXOCXXXXXXXXXXOO.XXXXXOXXXXXXXXXXXXXXOOX.OO.O..
+Iteration: 42
+Unvisited nodes: 14
+Open nodes: 11
+Closed nodes: 41
+..........OXXXXXXXXXXXOXXXXXXXXXXOO.XXXXXOXXXXXXXXXXXXXXOOX.OC.OO.
+Iteration: 43
+Unvisited nodes: 14
+Open nodes: 10
+Closed nodes: 42
+..........OXXXXXXXXXXXOXXXXXXXXXXOO.XXXXXOXXXXXXXXXXXXXXOCX.XO.OO.
+Iteration: 44
+Unvisited nodes: 13
+Open nodes: 10
+Closed nodes: 43
+..O.......OXXXXXXXXXXXOCXXXXXXXXXOO.XXXXXOXXXXXXXXXXXXXXXOX.XO.OO.
+Iteration: 45
+Unvisited nodes: 11
+Open nodes: 11
+Closed nodes: 44
+..O.......OXXXXXXXXXXXXXXXXXXXXXXOOCXXXXXOXXXXXXXXXXXXXXXOXOXO.OO.
+Path from 43 to 3
+Path = 43 40 38 16 17 18 19 20 21 22 23 3 
+Cost: 318

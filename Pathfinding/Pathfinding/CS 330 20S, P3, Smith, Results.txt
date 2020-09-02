@@ -1,0 +1,246 @@
+Output File for Adventure Bay:
+Node 1: X:20 Z:30
+Node 2: X:20 Z:15
+Node 3: X:50 Z:10
+Node 4: X:70 Z:10
+Node 5: X:115 Z:10
+Node 6: X:135 Z:10
+Node 7: X:165 Z:10
+Node 8: X:170 Z:15
+Node 9: X:180 Z:15
+Node 10: X:170 Z:65
+Node 11: X:160 Z:65
+Node 12: X:151 Z:68
+Node 13: X:142 Z:71
+Node 14: X:133 Z:74
+Node 15: X:124 Z:77
+Node 16: X:115 Z:80
+Node 17: X:92.5 Z:80
+Node 18: X:70 Z:80
+Node 19: X:45 Z:75
+Node 20: X:35 Z:70
+Node 21: X:20 Z:55
+Node 22: X:30 Z:50
+Node 23: X:45 Z:40
+Node 24: X:40 Z:60
+Node 25: X:50 Z:65
+Node 26: X:70 Z:70
+Node 27: X:70 Z:60
+Node 28: X:92.5 Z:70
+Node 29: X:115 Z:70
+Node 30: X:140 Z:62
+Node 31: X:128.5 Z:83
+Node 32: X:137.5 Z:80
+Node 33: X:146.5 Z:77
+Node 34: X:155.5 Z:74
+Node 35: X:175 Z:85
+Node 36: X:175 Z:65
+Node 37: X:145 Z:95
+Node 38: X:130 Z:100
+Node 39: X:152 Z:105
+Node 40: X:145 Z:120
+Node 41: X:160 Z:140
+Node 42: X:175 Z:160
+Node 43: X:75 Z:190
+Node 44: X:115 Z:100
+Node 45: X:92.5 Z:100
+Node 46: X:70 Z:100
+Node 47: X:70 Z:110
+Node 48: X:77 Z:110
+Node 49: X:85 Z:110
+Node 50: X:92.5 Z:110
+Node 51: X:100 Z:110
+Node 52: X:108 Z:110
+Node 53: X:115 Z:110
+Node 54: X:108 Z:120
+Node 55: X:100 Z:120
+Node 56: X:92.5 Z:120
+Node 57: X:85 Z:120
+Node 58: X:77 Z:120
+Node 59: X:60 Z:90
+Node 60: X:182 Z:95
+Node 61: X:43 Z:98
+Node 62: X:35 Z:95
+Node 63: X:30 Z:105
+Node 64: X:65 Z:120
+Node 65: X:40 Z:105
+Node 66: X:20 Z:145
+Connections:
+Connection 1: 1 to 2 Cost: 5
+Connection 2: 2 to 1 Cost: 30
+Connection 3: 2 to 3 Cost: 40
+Connection 4: 3 to 2 Cost: 60
+Connection 5: 3 to 4 Cost: 20
+Connection 6: 4 to 3 Cost: 20
+Connection 7: 4 to 5 Cost: 45
+Connection 8: 5 to 4 Cost: 45
+Connection 9: 5 to 6 Cost: 20
+Connection 10: 6 to 5 Cost: 20
+Connection 11: 6 to 7 Cost: 30
+Connection 12: 7 to 6 Cost: 30
+Connection 13: 7 to 8 Cost: 8
+Connection 14: 8 to 7 Cost: 8
+Connection 15: 8 to 9 Cost: 10
+Connection 16: 9 to 8 Cost: 10
+Connection 17: 8 to 10 Cost: 50
+Connection 18: 10 to 8 Cost: 50
+Connection 19: 10 to 11 Cost: 10
+Connection 20: 11 to 35 Cost: 25
+Connection 21: 35 to 36 Cost: 20
+Connection 22: 36 to 10 Cost: 5
+Connection 23: 11 to 12 Cost: 10
+Connection 24: 12 to 11 Cost: 10
+Connection 25: 12 to 13 Cost: 10
+Connection 26: 13 to 12 Cost: 10
+Connection 27: 13 to 14 Cost: 10
+Connection 28: 14 to 13 Cost: 10
+Connection 29: 14 to 15 Cost: 10
+Connection 30: 15 to 14 Cost: 10
+Connection 31: 15 to 16 Cost: 10
+Connection 32: 16 to 15 Cost: 10
+Connection 33: 16 to 17 Cost: 22
+Connection 34: 17 to 16 Cost: 22
+Connection 35: 17 to 18 Cost: 22
+Connection 36: 17 to 18 Cost: 22
+Connection 37: 18 to 19 Cost: 26
+Connection 38: 19 to 18 Cost: 26
+Connection 39: 19 to 20 Cost: 12
+Connection 40: 20 to 19 Cost: 12
+Connection 41: 20 to 21 Cost: 25
+Connection 42: 21 to 20 Cost: 25
+Connection 43: 21 to 22 Cost: 12
+Connection 44: 22 to 23 Cost: 19
+Connection 45: 23 to 3 Cost: 31
+Connection 46: 16 to 44 Cost: 20
+Connection 47: 44 to 16 Cost: 20
+Connection 48: 38 to 44 Cost: 15
+Connection 49: 44 to 38 Cost: 15
+Connection 50: 16 to 38 Cost: 25
+Connection 51: 38 to 16 Cost: 25
+Connection 52: 37 to 38 Cost: 16
+Connection 53: 38 to 37 Cost: 16
+Connection 54: 35 to 37 Cost: 32
+Connection 55: 37 to 35 Cost: 32
+Connection 56: 38 to 40 Cost: 25
+Connection 57: 40 to 38 Cost: 25
+Connection 58: 40 to 41 Cost: 25
+Connection 59: 41 to 40 Cost: 25
+Connection 60: 41 to 42 Cost: 25
+Connection 61: 42 to 41 Cost: 25
+Connection 62: 40 to 43 Cost: 99
+Connection 63: 43 to 40 Cost: 99
+Connection 64: 18 to 46 Cost: 20
+Connection 65: 46 to 18 Cost: 20
+Connection 66: 46 to 47 Cost: 10
+Connection 67: 47 to 46 Cost: 10
+Connection 68: 47 to 48 Cost: 7
+Connection 69: 48 to 47 Cost: 7
+Connection 70: 48 to 49 Cost: 8
+Connection 71: 49 to 48 Cost: 8
+Connection 72: 49 to 50 Cost: 8
+Connection 73: 50 to 49 Cost: 8
+Connection 74: 50 to 51 Cost: 8
+Connection 75: 51 to 50 Cost: 8
+Connection 76: 51 to 52 Cost: 8
+Connection 77: 52 to 51 Cost: 8
+Connection 78: 52 to 53 Cost: 7
+Connection 79: 53 to 52 Cost: 7
+Connection 80: 44 to 53 Cost: 10
+Connection 81: 53 to 44 Cost: 10
+Connection 82: 19 to 62 Cost: 23
+Connection 83: 62 to 19 Cost: 23
+Connection 84: 47 to 61 Cost: 30
+Connection 85: 61 to 47 Cost: 30
+Connection 86: 47 to 64 Cost: 12
+Connection 87: 64 to 47 Cost: 12
+Connection 88: 61 to 62 Cost: 10
+Connection 89: 62 to 61 Cost: 10
+Connection 90: 61 to 65 Cost: 16
+Connection 91: 65 to 61 Cost: 16
+Connection 92: 62 to 63 Cost: 12
+Connection 93: 63 to 62 Cost: 12
+Connection 94: 63 to 64 Cost: 39
+Connection 95: 64 to 63 Cost: 39
+Connection 96: 64 to 66 Cost: 70
+Connection 97: 66 to 64 Cost: 70
+Connection 98: 20 to 24 Cost: 23
+Connection 99: 24 to 20 Cost: 23
+Connection 100: 19 to 25 Cost: 23
+Connection 101: 25 to 19 Cost: 23
+Connection 102: 18 to 26 Cost: 20
+Connection 103: 26 to 18 Cost: 20
+Connection 104: 26 to 27 Cost: 20
+Connection 105: 27 to 26 Cost: 20
+Connection 106: 26 to 28 Cost: 45
+Connection 107: 28 to 26 Cost: 45
+Connection 108: 28 to 29 Cost: 45
+Connection 109: 29 to 28 Cost: 45
+Connection 110: 29 to 30 Cost: 53
+Connection 111: 30 to 29 Cost: 53
+Connection 112: 17 to 28 Cost: 20
+Connection 113: 28 to 17 Cost: 20
+Connection 114: 16 to 29 Cost: 20
+Connection 115: 29 to 16 Cost: 20
+Connection 116: 13 to 30 Cost: 19
+Connection 117: 30 to 13 Cost: 19
+Connection 118: 12 to 34 Cost: 15
+Connection 119: 34 to 12 Cost: 15
+Connection 120: 13 to 33 Cost: 15
+Connection 121: 33 to 13 Cost: 15
+Connection 122: 14 to 32 Cost: 15
+Connection 123: 32 to 14 Cost: 15
+Connection 124: 15 to 31 Cost: 15
+Connection 125: 31 to 15 Cost: 15
+Connection 126: 17 to 45 Cost: 40
+Connection 127: 45 to 17 Cost: 40
+Connection 128: 45 to 50 Cost: 20
+Connection 129: 50 to 45 Cost: 20
+Connection 130: 44 to 45 Cost: 45
+Connection 131: 45 to 44 Cost: 45
+Connection 132: 45 to 46 Cost: 45
+Connection 133: 46 to 45 Cost: 45
+Connection 134: 52 to 54 Cost: 20
+Connection 135: 54 to 52 Cost: 20
+Connection 136: 51 to 55 Cost: 20
+Connection 137: 55 to 51 Cost: 20
+Connection 138: 50 to 56 Cost: 20
+Connection 139: 56 to 50 Cost: 20
+Connection 140: 49 to 57 Cost: 20
+Connection 141: 57 to 49 Cost: 20
+Connection 142: 48 to 58 Cost: 20
+Connection 143: 58 to 48 Cost: 20
+Connection 144: 18 to 59 Cost: 29
+Connection 145: 59 to 18 Cost: 29
+Connection 146: 19 to 59 Cost: 43
+Connection 147: 59 to 19 Cost: 43
+Connection 148: 46 to 59 Cost: 29
+Connection 149: 59 to 46 Cost: 29
+Connection 150: 35 to 60 Cost: 25
+Connection 151: 60 to 35 Cost: 25
+Connection 152: 37 to 39 Cost: 25
+Connection 153: 39 to 37 Cost: 25
+Pathfinding Results:
+Path from 1 to 59
+Path = 1 2 3 4 5 6 7 8 10 11 12 13 14 15 16 17 18 59 
+Cost: 351
+Path from 45 to 66
+Path = 45 50 49 48 47 64 66 
+Cost: 125
+Path from 60 to 9
+Path = 60 35 36 10 8 9 
+Cost: 110
+Path from 1 to 23
+Path = 1 2 3 4 5 6 7 8 10 11 12 13 14 15 16 17 18 19 20 21 22 23 
+Cost: 416
+Path from 22 to 42
+Path = 22 23 3 4 5 6 7 8 10 11 35 37 38 40 41 42 
+Cost: 381
+Path from 9 to 66
+Path = 9 8 10 11 12 13 14 15 16 17 18 46 47 64 66 
+Cost: 276
+Path from 33 to 27
+Path = 33 13 14 15 16 17 18 26 27 
+Cost: 129
+Path from 43 to 3
+Path = 43 40 38 16 17 18 19 20 21 22 23 3 
+Cost: 318
